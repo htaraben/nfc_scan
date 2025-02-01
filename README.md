@@ -6,3 +6,7 @@ lib\core\presentation\screen\infocard.dart      //hier is  the infocard class//
 lib\main.dart                                   //hier is  the main class// 
 
 after clone the project run this comand " flutter pub get " To initialize the dependencies
+
+assets\data.json  //this file has to be modified//
+
+assets\photos     //photos with name like DE.jpg//
