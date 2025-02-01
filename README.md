@@ -5,3 +5,4 @@ lib\core\presentation\screen\nfc_reader.dart    //hier is  the nfc reader class/
 lib\core\presentation\screen\infocard.dart      //hier is  the infocard class//
 lib\main.dart                                   //hier is  the main class// 
 
+after clone the project run this comand " flutter pub get " To initialize the dependencies
