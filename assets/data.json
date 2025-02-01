@@ -1,0 +1,20 @@
+[
+    {
+      "id": "DE",
+      "title": "DEUTSCHLAND",
+      "description1": "description DE 1",
+      "description2": "description DE 2",
+      "description3": "description DE 3",
+      "imagePath": "assets/photos/DE.jpg"
+    },
+    {
+      "id": "FR",
+      "title": "FRANCE",
+      "description1": "description FR 1",
+      "description2": "description FR 2",
+      "description3": "description FR 3",
+      "imagePath": "assets/photos/FR.jpg"
+ 
+    }
+  ]
+  

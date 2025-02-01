@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:nfc_manager/nfc_manager.dart';
 import 'dart:convert';
 
@@ -14,11 +15,41 @@ class NFCReaderScreen extends StatefulWidget {
 
 class _NFCReaderScreenState extends State<NFCReaderScreen> {
   String _nfcData = "Scan an NFC tag to see the data.";
-  
+  List<dynamic> nfcDataList = [];
+  Map<String, dynamic>? scannedData;
+  bool isLoading = false;
+
+  @override
+  void initState() {
+    super.initState();
+    loadLocalData();
+  }
+
+  // Load JSON data
+  Future<void> loadLocalData() async {
+    String jsonString = await rootBundle.loadString('assets/data.json');
+    setState(() {
+      nfcDataList = json.decode(jsonString);
+      
+    });
+  }
+
+
+
+
   // Function to start NFC scanning session
   Future<void> _readNfcTag() async {
-    bool isAvailable = await NfcManager.instance.isAvailable();
 
+    setState(() {
+      _nfcData = "Scan an NFC tag to see the data.";
+      isLoading = true;
+      scannedData = null;
+    });
+    
+    
+    bool isAvailable = await NfcManager.instance.isAvailable();
+    
+                  
     if (!isAvailable) {
       setState(() {
         _nfcData = "NFC is not available on this device.";
@@ -45,8 +76,21 @@ class _NFCReaderScreenState extends State<NFCReaderScreen> {
               record.payload[0] == 0x02) {
             // Decode text (skip language code bytes)
             String decodedText = utf8.decode(record.payload.sublist(3));
+
+            Map<String, dynamic>? result = nfcDataList.firstWhere(
+                            (item) => item["id"] == decodedText.toString(),
+                            orElse: () => {"error": "No record found!"},
+                          );
+                          
+                setState(() {
+                    isLoading = false;
+                    _nfcData = "NFC Chip successful scanned";
+                    scannedData = result;
+                  });
+            
             setState(() {
-              _nfcData = "NFC Text: $decodedText";
+              _nfcData = "NFC Text is: $decodedText";
+              
             });
           } else {
             setState(() {
@@ -61,6 +105,7 @@ class _NFCReaderScreenState extends State<NFCReaderScreen> {
     } catch (e) {
       setState(() {
         _nfcData = "Error reading NFC: $e";
+        scannedData = {"error": "Error scanning NFC: $e"};
       });
     }
   }
@@ -85,18 +130,16 @@ class _NFCReaderScreenState extends State<NFCReaderScreen> {
             ElevatedButton(
               
               onPressed: _readNfcTag,
-              child: Text('Scan NFC Tag'),
+              child: Text('Scan NFC'),
 
             ),
-            InfoCard(
-            data: {
-              'title': 'FRANCE',
-              'description1': 'This is an description1 example.',
-              'description2': 'This is an description2 example.',
-              'description3': 'This is an description3 example.',
-              'imageUrl': 'https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/478C/production/_121561381_gettyimages-976199210.jpg.webp' // Replace with an actual image URL
-            },
-          ),
+
+            isLoading
+                  ? CircularProgressIndicator()
+                  : scannedData != null
+                      ? InfoCard(data: scannedData!)
+                      : Text('No data scanned'),
+           
           ],
 
           

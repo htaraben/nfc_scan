@@ -20,10 +20,14 @@ class InfoCard extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                data['title'] ?? 'Title',
+                data['id'] ?? 'ID',
                 style: Theme.of(context).textTheme.headlineSmall,
               ),
               const SizedBox(height: 8),
+              Text(
+                data['title'] ?? 'Title',
+                style: Theme.of(context).textTheme.bodyMedium,
+              ),
               Text(
                 data['description1'] ?? 'Description1 goes here...',
                 style: Theme.of(context).textTheme.bodyMedium,
@@ -32,16 +36,16 @@ class InfoCard extends StatelessWidget {
                 data['description2'] ?? 'Description2 goes here...',
                 style: Theme.of(context).textTheme.bodyMedium,
               ),
-               Text(
+              Text(
                 data['description3'] ?? 'Description3 goes here...',
                 style: Theme.of(context).textTheme.bodyMedium,
               ),
               const SizedBox(height: 12),
               ClipRRect(
-                borderRadius: BorderRadius.circular(12),
-                child: data['imageUrl'] != null
-                    ? Image.network(
-                        data['imageUrl'],
+                borderRadius: BorderRadius.circular(8),
+                child: data['imagePath'] != null
+                    ? Image.asset(
+                        data['imagePath'],
                         width: double.infinity, // Match card width
                          // Adjust image height
                         fit: BoxFit.cover,
