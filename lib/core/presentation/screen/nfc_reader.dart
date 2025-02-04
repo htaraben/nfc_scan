@@ -5,6 +5,8 @@ import 'dart:convert';
 
 import 'package:nfc_scan/core/presentation/screen/infocard.dart';
 
+import 'country_quiz.dart';
+
 class NFCReaderScreen extends StatefulWidget {
   const NFCReaderScreen({super.key});
 
@@ -30,7 +32,7 @@ class _NFCReaderScreenState extends State<NFCReaderScreen> {
     String jsonString = await rootBundle.loadString('assets/data.json');
     setState(() {
       nfcDataList = json.decode(jsonString);
-      
+
     });
   }
 
@@ -45,11 +47,11 @@ class _NFCReaderScreenState extends State<NFCReaderScreen> {
       isLoading = true;
       scannedData = null;
     });
-    
-    
+
+
     bool isAvailable = await NfcManager.instance.isAvailable();
-    
-                  
+
+
     if (!isAvailable) {
       setState(() {
         _nfcData = "NFC is not available on this device.";
@@ -78,19 +80,19 @@ class _NFCReaderScreenState extends State<NFCReaderScreen> {
             String decodedText = utf8.decode(record.payload.sublist(3));
 
             Map<String, dynamic>? result = nfcDataList.firstWhere(
-                            (item) => item["id"] == decodedText.toString(),
-                            orElse: () => {"error": "No record found!"},
-                          );
-                          
-                setState(() {
-                    isLoading = false;
-                    _nfcData = "NFC Chip successful scanned";
-                    scannedData = result;
-                  });
-            
+                  (item) => item["id"] == decodedText.toString(),
+              orElse: () => {"error": "No record found!"},
+            );
+
+            setState(() {
+              isLoading = false;
+              _nfcData = "NFC Chip successful scanned";
+              scannedData = result;
+            });
+
             setState(() {
               _nfcData = "NFC Text is: $decodedText";
-              
+
             });
           } else {
             setState(() {
@@ -121,30 +123,36 @@ class _NFCReaderScreenState extends State<NFCReaderScreen> {
     return Scaffold(
       appBar: AppBar(title: Text('NFC Reader')),
       body: Center(
-        
+
+        child: ElevatedButton(
+          child: const Text("countyQuiz"),
+          onPressed: (){
+           Navigator.pushNamed(context, '/country_quiz');
+          },
+        ),
+        /**
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(_nfcData, textAlign: TextAlign.center),
             SizedBox(height: 20),
             ElevatedButton(
-              
+
               onPressed: _readNfcTag,
               child: Text('Scan NFC'),
 
             ),
-
             isLoading
-                  ? CircularProgressIndicator()
-                  : scannedData != null
-                      ? InfoCard(data: scannedData!)
-                      : Text('No data scanned'),
-           
+                ? CircularProgressIndicator()
+                : scannedData != null
+                ? InfoCard(data: scannedData!)
+                : Text('No data scanned'),
+
           ],
 
-          
-        ),
-        
+
+        ),*/
+
       ),
     );
   }

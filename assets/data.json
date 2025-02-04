@@ -30,17 +30,43 @@
       "imagePath": "assets/photos/ZA.jpg"
   },
   {
-      "id": "RU",
-      "title": "🇷🇺 Russland 🇷🇺",
-      "description1": "Kontinent: Europa und Asien",
-      "description2": "Hauptstadt: Moskau",
-      "description3": "Sprache: Russisch",
-      "description4": "Besonderheit: Es ist das größte Land der Welt und hat viele Zeitzonen!",
-      "description5": "Spaßfakt: Russen lieben Tee – oft trinken sie ihn mit Marmelade.",
-      "imagePath": "assets/photos/RU.jpg"
+    "id": "RU",
+    "title": "🇷🇺 Russland 🇷🇺",
+    "description1": "Kontinent: Europa und Asien",
+    "description2": "Hauptstadt: Moskau",
+    "description3": "Sprache: Russisch",
+    "description4": "Besonderheit: Es ist das größte Land der Welt und hat viele Zeitzonen!",
+    "description5": "Spaßfakt: Russen lieben Tee – oft trinken sie ihn mit Marmelade.",
+    "imagePath": "assets/photos/RU.jpg",
+    "backgroundColor": "#2C3E50",
+    "appBarColors": ["#FFFFFF", "#0000FF", "#FF0000"],
+    "quiz": {
+      "questions": [
+        {
+          "question": "Welches Tier lebt in Russland?",
+          "options": [
+            "assets/photos/bear.jpg",
+            "assets/photos/tiger.jpg",
+            "assets/photos/wolf.jpg",
+            "assets/photos/elephant.jpg"
+          ],
+          "correctAnswer": "assets/photos/bear.jpg"
+        },
+        {
+          "question": "Welches Auto wird in Russland hergestellt??",
+          "options": [
+            "assets/photos/audi.jpg",
+            "assets/photos/mercedes.jpg",
+            "assets/photos/lada.jpg",
+            "assets/photos/alfa.png"
+          ],
+          "correctAnswer": "assets/photos/lada.jpg"
+        }
+      ]
+    }
   },
-  {
-      "id": "JP",
+
+  { "id": "JP",
       "title": "🇯🇵 Japan 🇯🇵",
       "description1": "Kontinent: Asien",
       "description2": "Hauptstadt: Tokio",

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+export 'infocard.dart';
 class InfoCard extends StatelessWidget {
   final Map<String, dynamic> data;
 
