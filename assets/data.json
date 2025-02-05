@@ -1,5 +1,5 @@
 [
-  {
+    {
       "id": "CA",
       "title": "🇨🇦 Kanada 🇨🇦",
       "description1": "Kontinent: Nordamerika",
@@ -7,9 +7,23 @@
       "description3": "Sprachen: Englisch und Französisch",
       "description4": "Besonderheit: Es hat viele Seen – mehr als jedes andere Land der Welt!",
       "description5": "Spaßfakt: Hier wurde der Eishockeysport erfunden.",
-      "imagePath": "assets/photos/CA.jpg"
-  },
-  {
+      "imagePath": "assets/photos/CA.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier ist ein Symbol Kanadas?",
+            "options": [
+              "assets/photos/tiger.jpg",
+              "assets/photos/moose.jpg",
+              "assets/photos/peacock.jpg",
+              "assets/photos/wolf.jpg"
+            ],
+            "correctAnswer": "assets/photos/moose.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "IN",
       "title": "🇮🇳 Indien 🇮🇳",
       "description1": "Kontinent: Asien",
@@ -17,9 +31,23 @@
       "description3": "Sprache: Hindi und viele andere Sprachen",
       "description4": "Besonderheit: Hier steht das Taj Mahal, eines der schönsten Bauwerke der Welt.",
       "description5": "Spaßfakt: Kühe sind in Indien heilig.",
-      "imagePath": "assets/photos/IN.jpg"
-  },
-  {
+      "imagePath": "assets/photos/IN.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier ist das Nationaltier Indiens?",
+            "options": [
+              "assets/photos/tiger.jpg",
+              "assets/photos/moose.jpg",
+              "assets/photos/lion.jpg",
+              "assets/photos/peacock.jpg"
+            ],
+            "correctAnswer": "assets/photos/tiger.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "ZA",
       "title": "🇿🇦 Südafrika 🇿🇦",
       "description1": "Kontinent: Afrika",
@@ -27,55 +55,87 @@
       "description3": "Sprachen: 11 offizielle Sprachen (z. B. Englisch, Zulu)",
       "description4": "Besonderheit: Es wird „Regenbogennation“ genannt wegen seiner Vielfalt.",
       "description5": "Spaßfakt: Hier leben die Big Five: Löwe, Elefant, Nashorn, Büffel und Leopard.",
-      "imagePath": "assets/photos/ZA.jpg"
-  },
-  {
-    "id": "RU",
-    "title": "🇷🇺 Russland 🇷🇺",
-    "description1": "Kontinent: Europa und Asien",
-    "description2": "Hauptstadt: Moskau",
-    "description3": "Sprache: Russisch",
-    "description4": "Besonderheit: Es ist das größte Land der Welt und hat viele Zeitzonen!",
-    "description5": "Spaßfakt: Russen lieben Tee – oft trinken sie ihn mit Marmelade.",
-    "imagePath": "assets/photos/RU.jpg",
-    "backgroundColor": "#2C3E50",
-    "appBarColors": ["#FFFFFF", "#0000FF", "#FF0000"],
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier lebt in Russland?",
-          "options": [
-            "assets/photos/bear.jpg",
-            "assets/photos/tiger.jpg",
-            "assets/photos/wolf.jpg",
-            "assets/photos/elephant.jpg"
-          ],
-          "correctAnswer": "assets/photos/bear.jpg"
-        },
-        {
-          "question": "Welches Auto wird in Russland hergestellt??",
-          "options": [
-            "assets/photos/audi.jpg",
-            "assets/photos/mercedes.jpg",
-            "assets/photos/lada.jpg",
-            "assets/photos/alfa.png"
-          ],
-          "correctAnswer": "assets/photos/lada.jpg"
-        }
-      ]
-    }
-  },
-
-  { "id": "JP",
+      "imagePath": "assets/photos/ZA.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier gehört nicht zu den Big Five in Südafrika?",
+            "options": [
+              "assets/photos/elephant.jpg",
+              "assets/photos/lion.jpg",
+              "assets/photos/bear.jpg",
+              "assets/photos/rhinoceros.jpg"
+            ],
+            "correctAnswer": "assets/photos/bear.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RU",
+      "title": "🇷🇺 Russland 🇷🇺",
+      "description1": "Kontinent: Europa und Asien",
+      "description2": "Hauptstadt: Moskau",
+      "description3": "Sprache: Russisch",
+      "description4": "Besonderheit: Es ist das größte Land der Welt und hat viele Zeitzonen!",
+      "description5": "Spaßfakt: Russen lieben Tee – oft trinken sie ihn mit Marmelade.",
+      "imagePath": "assets/photos/RU.jpg",
+      "backgroundColor": "#2C3E50",
+      "appBarColors": [
+        "#FFFFFF",
+        "#0000FF",
+        "#FF0000"
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier lebt in Russland?",
+            "options": [
+              "assets/photos/bear.jpg",
+              "assets/photos/tiger.jpg",
+              "assets/photos/rhinoceros.jpg",
+              "assets/photos/elephant.jpg"
+            ],
+            "correctAnswer": "assets/photos/bear.jpg"
+          },
+          {
+            "question": "Welches Auto wird in Russland hergestellt??",
+            "options": [
+              "assets/photos/audi.jpg",
+              "assets/photos/mercedes.jpg",
+              "assets/photos/lada.jpg",
+              "assets/photos/vw.png"
+            ],
+            "correctAnswer": "assets/photos/lada.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "JP",
       "title": "🇯🇵 Japan 🇯🇵",
       "description1": "Kontinent: Asien",
       "description2": "Hauptstadt: Tokio",
       "description3": "Sprache: Japanisch",
       "description4": "Besonderheit: Hier gibt es Sushi und die berühmten Kirschblüten.",
       "description5": "Spaßfakt: Japan hat Automaten, die fast alles verkaufen – sogar warme Suppen!",
-      "imagePath": "assets/photos/JP.jpg"
-  },
-  {
+      "imagePath": "assets/photos/JP.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier kann man in Nara Park in Japan beobachten?",
+            "options": [
+              "assets/photos/deer.jpg",
+              "assets/photos/tiger.jpg",
+              "assets/photos/elephant.jpg",
+              "assets/photos/camel.jpg"
+            ],
+            "correctAnswer": "assets/photos/deer.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "EG",
       "title": "🇪🇬 Ägypten 🇪🇬",
       "description1": "Kontinent: Afrika",
@@ -83,9 +143,23 @@
       "description3": "Sprache: Arabisch",
       "description4": "Besonderheit: Hier stehen die Pyramiden von Gizeh – die ältesten Bauwerke der Welt.",
       "description5": "Spaßfakt: Katzen wurden in Ägypten als heilig angesehen.",
-      "imagePath": "assets/photos/EG.jpg"
-  },
-  {
+      "imagePath": "assets/photos/EG.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier wurde im alten Ägypten verehrt?",
+            "options": [
+              "assets/photos/cat.jpg",
+              "assets/photos/dog.jpg",
+              "assets/photos/camel.jpg",
+              "assets/photos/lion.jpg"
+            ],
+            "correctAnswer": "assets/photos/cat.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "TR",
       "title": "🇹🇷 Türkei 🇹🇷",
       "description1": "Kontinent: Europa und Asien",
@@ -93,9 +167,23 @@
       "description3": "Sprache: Türkisch",
       "description4": "Besonderheit: Die Türkei ist bekannt für ihre Gastfreundschaft und ihre Basare.",
       "description5": "Spaßfakt: Der Döner, den viele in Deutschland lieben, kommt aus der Türkei!",
-      "imagePath": "assets/photos/TR.jpg"
-  },
-  {
+      "imagePath": "assets/photos/TR.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches traditionelle Gericht stammt aus der Türkei?",
+            "options": [
+              "assets/photos/doner.jpg",
+              "assets/photos/pizza.jpg",
+              "assets/photos/burger.jpg",
+              "assets/photos/sushi.jpg"
+            ],
+            "correctAnswer": "assets/photos/doner.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "SY",
       "title": "🇸🇾 Syrien 🇸🇾",
       "description1": "Kontinent: Asien",
@@ -103,9 +191,23 @@
       "description3": "Sprache: Arabisch",
       "description4": "Besonderheit: Damaskus gehört zu den ältesten Städten der Welt.",
       "description5": "Spaßfakt: Syrische Küche hat viele leckere Gerichte wie Falafel und Hummus.",
-      "imagePath": "assets/photos/SY.jpg"
-  },
-  {
+      "imagePath": "assets/photos/SY.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Gericht ist in der syrischen Küche sehr beliebt?",
+            "options": [
+              "assets/photos/falafel.jpg",
+              "assets/photos/pasta.jpg",
+              "assets/photos/burger.jpg",
+              "assets/photos/noodles.jpg"
+            ],
+            "correctAnswer": "assets/photos/falafel.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "DE",
       "title": "🇩🇪 Deutschland 🇩🇪",
       "description1": "Kontinent: Europa",
@@ -113,9 +215,23 @@
       "description3": "Sprache: Deutsch",
       "description4": "Besonderheit: Das Land hat viele Burgen, Wälder und das Oktoberfest!",
       "description5": "Spaßfakt: Die längste Bratwurst der Welt war über 5 Kilometer lang!",
-      "imagePath": "assets/photos/DE.jpg"
-  },
-  {
+      "imagePath": "assets/photos/DE.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches dieser berühmten Bauwerke steht in Berlin?",
+            "options": [
+              "assets/photos/brandenburg_gate.jpg",
+              "assets/photos/eiffel_tower.jpg",
+              "assets/photos/colosseum.jpg",
+              "assets/photos/statue_of_liberty.jpg"
+            ],
+            "correctAnswer": "assets/photos/brandenburg_gate.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "BR",
       "title": "🇧🇷 Brasilien 🇧🇷",
       "description1": "Kontinent: Südamerika",
@@ -123,9 +239,23 @@
       "description3": "Sprache: Portugiesisch",
       "description4": "Besonderheit: Der Amazonas-Regenwald ist hier – einer der größten Wälder der Welt!",
       "description5": "Spaßfakt: Der berühmte Karneval in Rio hat gigantische Paraden mit bunten Kostümen.",
-      "imagePath": "assets/photos/BR.jpg"
-  },
-  {
+      "imagePath": "assets/photos/BR.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier lebt im Amazonas-Regenwald?",
+            "options": [
+              "assets/photos/jaguar.jpg",
+              "assets/photos/penguin.jpg",
+              "assets/photos/crocodile.jpg",
+              "assets/photos/lion.jpg"
+            ],
+            "correctAnswer": "assets/photos/jaguar.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "CN",
       "title": "🇨🇳 China 🇨🇳",
       "description1": "Kontinent: Asien",
@@ -133,9 +263,23 @@
       "description3": "Sprache: Chinesisch (Mandarin)",
       "description4": "Besonderheit: Hier steht die Chinesische Mauer, die über 21.000 Kilometer lang ist!",
       "description5": "Spaßfakt: Pandas kommen ursprünglich aus China.",
-      "imagePath": "assets/photos/CN.jpg"
-  },
-  {
+      "imagePath": "assets/photos/CN.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier ist ein Symbol für China und sehr beliebt?",
+            "options": [
+              "assets/photos/panda.jpg",
+              "assets/photos/tiger.jpg",
+              "assets/photos/monkey.jpg",
+              "assets/photos/elephant.jpg"
+            ],
+            "correctAnswer": "assets/photos/panda.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "AU",
       "title": "🇦🇺 Australien 🇦🇺",
       "description1": "Kontinent: Australien (Ozeanien)",
@@ -143,9 +287,23 @@
       "description3": "Sprache: Englisch",
       "description4": "Besonderheit: Hier leben Kängurus, Koalas und das berühmte Great Barrier Reef.",
       "description5": "Spaßfakt: Australien hat mehr Schafe als Menschen!",
-      "imagePath": "assets/photos/AU.jpg"
-  },
-  {
+      "imagePath": "assets/photos/AU.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches dieser Tiere ist typisch für Australien?",
+            "options": [
+              "assets/photos/kangaroo.jpg",
+              "assets/photos/tiger.jpg",
+              "assets/photos/elephant.jpg",
+              "assets/photos/penguin.jpg"
+            ],
+            "correctAnswer": "assets/photos/kangaroo.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "AF",
       "title": "🇦🇫 Afghanistan 🇦🇫",
       "description1": "Kontinent: Asien",
@@ -153,9 +311,23 @@
       "description3": "Sprachen: Dari und Paschtu",
       "description4": "Besonderheit: Afghanistan hat viele Berge und beeindruckende Landschaften.",
       "description5": "Spaßfakt: Drachen steigen lassen ist ein beliebtes Hobby in Afghanistan.",
-      "imagePath": "assets/photos/AF.jpg"
-  },
-  {
+      "imagePath": "assets/photos/AF.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches dieser Tiere lebt in den Bergen Afghanistans?",
+            "options": [
+              "assets/photos/snow_leopard.jpg",
+              "assets/photos/lion.jpg",
+              "assets/photos/elephant.jpg",
+              "assets/photos/camel.jpg"
+            ],
+            "correctAnswer": "assets/photos/snow_leopard.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "PL",
       "title": "🇵🇱 Polen 🇵🇱",
       "description1": "Kontinent: Europa",
@@ -163,9 +335,23 @@
       "description3": "Sprache: Polnisch",
       "description4": "Besonderheit: Polen hat viele Burgen und eine reiche Geschichte.",
       "description5": "Spaßfakt: Pierogi (gefüllte Teigtaschen) sind ein berühmtes polnisches Gericht.",
-      "imagePath": "assets/photos/PL.jpg"
-  },
-  {
+      "imagePath": "assets/photos/PL.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches dieser Tiere ist ein Symbol Polens?",
+            "options": [
+              "assets/photos/eagle.jpg",
+              "assets/photos/bison.jpg",
+              "assets/photos/wolf.jpg",
+              "assets/photos/deer.jpg"
+            ],
+            "correctAnswer": "assets/photos/eagle.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "RO",
       "title": "🇷🇴 Rumänien 🇷🇴",
       "description1": "Kontinent: Europa",
@@ -173,9 +359,23 @@
       "description3": "Sprache: Rumänisch",
       "description4": "Besonderheit: In Rumänien liegt Transsilvanien, bekannt aus Dracula-Geschichten.",
       "description5": "Spaßfakt: Die rumänische Flagge hat die Farben Blau, Gelb und Rot.",
-      "imagePath": "assets/photos/RO.jpg"
-  },
-  {
+      "imagePath": "assets/photos/RO.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier lebt in den Karpaten in Rumänien?",
+            "options": [
+              "assets/photos/bear.jpg",
+              "assets/photos/lion.jpg",
+              "assets/photos/elephant.jpg",
+              "assets/photos/deer.jpg"
+            ],
+            "correctAnswer": "assets/photos/bear.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "IQ",
       "title": "🇮🇶 Irak 🇮🇶",
       "description1": "Kontinent: Asien",
@@ -183,9 +383,23 @@
       "description3": "Sprache: Arabisch und Kurdisch",
       "description4": "Besonderheit: Der Irak liegt am Fluss Euphrat und hat eine lange Geschichte.",
       "description5": "Spaßfakt: Viele irakische Gerichte verwenden Datteln und Lammfleisch.",
-      "imagePath": "assets/photos/IQ.jpg"
-  },
-  {
+      "imagePath": "assets/photos/IQ.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier ist gut an das Leben in der Wüste angepasst?",
+            "options": [
+              "assets/photos/camel.jpg",
+              "assets/photos/penguin.jpg",
+              "assets/photos/kangaroo.jpg",
+              "assets/photos/panda.jpg"
+            ],
+            "correctAnswer": "assets/photos/camel.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "MA",
       "title": "🇲🇦 Marokko 🇲🇦",
       "description1": "Kontinent: Afrika",
@@ -193,9 +407,23 @@
       "description3": "Sprache: Arabisch und Tamazight (Berbersprache)",
       "description4": "Besonderheit: Marokko ist bekannt für seine bunten Märkte und die Sahara-Wüste.",
       "description5": "Spaßfakt: Marokkanischer Minztee ist ein Symbol für Gastfreundschaft.",
-      "imagePath": "assets/photos/MA.jpg"
-  },
-  {
+      "imagePath": "assets/photos/MA.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier ist oft in der Sahara zu sehen?",
+            "options": [
+              "assets/photos/camel.jpg",
+              "assets/photos/lion.jpg",
+              "assets/photos/elephant.jpg",
+              "assets/photos/falcon.jpg"
+            ],
+            "correctAnswer": "assets/photos/camel.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "FR",
       "title": "🇫🇷 Frankreich 🇫🇷",
       "description1": "Kontinent: Europa",
@@ -203,9 +431,23 @@
       "description3": "Sprache: Französisch",
       "description4": "Besonderheit: Frankreich ist berühmt für seinen Eiffelturm, Croissants und seine Modehauptstadt.",
       "description5": "Spaßfakt: Frankreich ist das meistbesuchte Land der Welt und hat über 40 UNESCO-Welterbestätten!",
-      "imagePath": "assets/photos/FR.jpg"
-  },
-  {
+      "imagePath": "assets/photos/FR.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier ist ein Symbol Frankreichs?",
+            "options": [
+              "assets/photos/doner.jpg",
+              "assets/photos/pizza.jpg",
+              "assets/photos/burger.jpg",
+              "assets/photos/baguette.jpg"
+            ],
+            "correctAnswer": "assets/photos/baguette.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "VN",
       "title": "🇻🇳 Vietnam 🇻🇳",
       "description1": "Kontinent: Asien",
@@ -213,9 +455,23 @@
       "description3": "Sprache: Vietnamesisch",
       "description4": "Besonderheit: Vietnam ist bekannt für seine Reisfelder und das leckere Essen.",
       "description5": "Spaßfakt: Das traditionelle vietnamesische Kleid heißt „Áo dài“.",
-      "imagePath": "assets/photos/VN.jpg"
-  },
-  {
+      "imagePath": "assets/photos/VN.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier ist ein wichtiger Helfer in den Reisfeldern Vietnams?",
+            "options": [
+              "assets/photos/water_buffalo.jpg",
+              "assets/photos/cow.jpg",
+              "assets/photos/donkey.jpg",
+              "assets/photos/horse.jpg"
+            ],
+            "correctAnswer": "assets/photos/water_buffalo.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "IT",
       "title": "🇮🇹 Italien 🇮🇹",
       "description1": "Kontinent: Europa",
@@ -223,9 +479,23 @@
       "description3": "Sprache: Italienisch",
       "description4": "Besonderheit: Viele Italiener kamen nach Deutschland, um beim Aufbau nach dem Krieg zu helfen.",
       "description5": "Spaßfakt: Italien hat die meisten UNESCO-Weltkulturerbestätten der Welt!",
-      "imagePath": "assets/photos/IT.jpg"
-  },
-  {
+      "imagePath": "assets/photos/IT.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier ist laut einer Legende ein Gründungszeichen Roms?",
+            "options": [
+              "assets/photos/wolf.jpg",
+              "assets/photos/eagle.jpg",
+              "assets/photos/lion.jpg",
+              "assets/photos/bear.jpg"
+            ],
+            "correctAnswer": "assets/photos/wolf.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "US",
       "title": "🇺🇸 Vereinigte Staaten von Amerika 🇺🇸",
       "description1": "Kontinent: Nordamerika",
@@ -233,9 +503,23 @@
       "description3": "Sprache: Englisch",
       "description4": "Besonderheit: Die USA haben weltweit die größte Wirtschaft und eine große Bedeutung in der Welt.",
       "description5": "Spaßfakt: Die USA waren das erste Land, das Menschen auf den Mond geschickt hat.",
-      "imagePath": "assets/photos/US.jpg"
-  },
-  {
+      "imagePath": "assets/photos/US.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier ist ein Symbol der Vereinigten Staaten?",
+            "options": [
+              "assets/photos/eagle.jpg",
+              "assets/photos/bear.jpg",
+              "assets/photos/tiger.jpg",
+              "assets/photos/lion.jpg"
+            ],
+            "correctAnswer": "assets/photos/eagle.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "UA",
       "title": "🇺🇦 Ukraine 🇺🇦",
       "description1": "Kontinent: Europa",
@@ -243,24 +527,67 @@
       "description3": "Sprache: Ukrainisch",
       "description4": "Besonderheit: Ist das zweitgrößte Land Europas.",
       "description5": "Spaßfakt: Die Tradition der bunt bemalten Ostereier kommt aus der Ukraine.",
-      "imagePath": "assets/photos/UA.jpg"
-  },
-  {
+      "imagePath": "assets/photos/UA.jpg",
+      "quiz": {
+        "questions": [
+            {
+                "question": "Welcher Vogel wird in der Ukraine oft als Glücksbringer gesehen, wenn er auf Häusern nistet?",
+                "options": [
+                    "assets/photos/stork.jpg",
+                    "assets/photos/robin.jpg",
+                    "assets/photos/owl.jpg",
+                    "assets/photos/sparrow.jpg"
+                ],
+                "correctAnswer": "assets/photos/stork.jpg"
+            }
+        ]
+      }
+    },
+    {
       "id": "ARCTIC",
       "title": "🐻‍❄️ Nordpol 🐻‍❄️",
       "description1": "Kontinent: Arktis",
       "description2": "Sprache: International",
       "description3": "Besonderheit: EISBÄREN!!!",
       "description4": "Spaßfakt: Die Arktis hat, anders als die Antarktis, keinen festen Boden. Sie besteht komplett aus meterdickem schwimmenden Eis.",
-      "imagePath": "assets/photos/ARCTIC.jpg"
-  },
-  {
+      "imagePath": "assets/photos/ARCTIC.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier ist ein Symbol für die Arktis?",
+            "options": [
+              "assets/photos/polar_bear.jpg",
+              "assets/photos/penguin.jpg",
+              "assets/photos/seal.jpg",
+              "assets/photos/whale.jpg"
+            ],
+            "correctAnswer": "assets/photos/polar_bear.jpg"
+          }
+        ]
+      }
+    },
+    {
       "id": "ANTARCTICA",
       "title": "🐧 Südpol 🐧",
       "description1": "Kontinent: Antarktis",
       "description2": "Sprache: International",
       "description3": "Besonderheit: PINGUINE!!!",
       "description4": "Spaßfakt: Ca. 30 Länder betreiben etwa 80 Forschungsstationen auf dem Kontinent.",
-      "imagePath": "assets/photos/ANTARCTICA.jpg"
-  }
-]
+      "imagePath": "assets/photos/ANTARCTICA.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "question": "Welches Tier ist ein typisches Symbol der Antarktis?",
+            "options": [
+              "assets/photos/penguin.jpg",
+              "assets/photos/seal.jpg",
+              "assets/photos/polar_bear.jpg",
+              "assets/photos/ostrich.jpg"
+            ],
+            "correctAnswer": "assets/photos/penguin.jpg"
+          }
+        ]
+      }
+    }
+  ]
+  
