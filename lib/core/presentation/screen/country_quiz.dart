@@ -3,7 +3,10 @@ import 'dart:convert';
 import 'package:flutter/services.dart' show rootBundle;
 
 class CountryQuizScreen extends StatefulWidget {
+  const CountryQuizScreen({super.key});
+
   @override
+  // ignore: library_private_types_in_public_api
   _CountryQuizScreenState createState() => _CountryQuizScreenState();
 }
 
@@ -33,75 +36,13 @@ class _CountryQuizScreenState extends State<CountryQuizScreen> {
 
   @override
   Widget build(BuildContext context) {
-    Color backgroundColor = countryData != null
-        ? Color(int.parse(countryData!["backgroundColor"].replaceAll("#", "0xFF")))
-        : Colors.white;
-
-    bool isDarkBackground = backgroundColor.computeLuminance() < 0.5;
-    Color textColor = isDarkBackground ? Colors.white : Colors.black;
-    TextStyle descriptionTextStyle = TextStyle(
-      fontSize: 16,
-      fontWeight: FontWeight.w500,
-      color: textColor,
-    );
-
+    
     return Scaffold(
-      appBar: AppBar(
-        title: Text(
-          countryData != null ? countryData!["title"] : "Loading...",
-          style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold, color: Colors.white),
-        ),
-        centerTitle: true,
-        backgroundColor: backgroundColor,
-        leading: IconButton(
-          icon: Icon(isInfoVisible ? Icons.close : Icons.info_outline, color: Colors.white),
-          onPressed: () {
-            setState(() {
-              isInfoVisible = !isInfoVisible;
-            });
-          },
-        ),
-      ),
       body: countryData == null
           ? Center(child: CircularProgressIndicator())
           : Column(
         children: [
-          // Top Half - Country Info with Background Image
-          Expanded(
-            flex: 6,
-            child: Stack(
-              children: [
-                Container(
-                  width: double.infinity,
-                  height: MediaQuery.of(context).size.height * 0.45, // 50% of screen height
-                  decoration: BoxDecoration(
-                    image: DecorationImage(
-                      image: AssetImage(countryData!["imagePath"]),
-                      fit: BoxFit.cover,
-                    ),
-                  ),
-                ),
-                if (isInfoVisible)
-                  Container(
-                    width: double.infinity,
-                    padding: EdgeInsets.all(16),
-                    color: backgroundColor.withOpacity(0.90),
-                    child: SingleChildScrollView(
-                      child: Column(
-                        children: [
-                          Text(countryData!["description1"], style: descriptionTextStyle),
-                          Text(countryData!["description2"], style: descriptionTextStyle),
-                          Text(countryData!["description3"], style: descriptionTextStyle),
-                          Text(countryData!["description4"], style: descriptionTextStyle),
-                          Text(countryData!["description5"], style: descriptionTextStyle),
-                        ],
-                      ),
-                    ),
-                  ),
-              ],
-            ),
-          ),
-          // Bottom Half - Quiz
+          
           Expanded(
             flex: 11,
             child: Column(
@@ -146,7 +87,7 @@ class _CountryQuizScreenState extends State<CountryQuizScreen> {
                           child: Stack(
                             children: [
                               ClipRRect(
-                                borderRadius: BorderRadius.circular(12),
+                                borderRadius: BorderRadius.circular(10),
                                 child: Image.asset(
                                   path,
                                   width: double.infinity,
