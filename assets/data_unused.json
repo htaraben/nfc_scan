@@ -1,714 +1,5 @@
 [
   {
-    "id": "CA",
-    "title": "🇨🇦 Kanada 🇨🇦",
-    "description1": "Kontinent: Nordamerika",
-    "description2": "Hauptstadt: Ottawa",
-    "description3": "Sprachen: Englisch und Französisch",
-    "description4": "Besonderheit: Es hat viele Seen – mehr als jedes andere Land der Welt!",
-    "description5": "Spaßfakt: Hier wurde der Eishockeysport erfunden.",
-    "imagePath": "assets/photos/CA.jpg",
-    "youtubeVideoId": "HYY8pCCd3Qg",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist ein Symbol Kanadas?",
-          "options": [
-            "assets/photos/tiger.jpg",
-            "assets/photos/moose.jpg",
-            "assets/photos/peacock.jpg",
-            "assets/photos/wolf.jpg"
-          ],
-          "correctAnswer": "assets/photos/moose.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "IN",
-    "title": "🇮🇳 Indien 🇮🇳",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Neu-Delhi",
-    "description3": "Sprache: Hindi und viele andere Sprachen",
-    "description4": "Besonderheit: Hier steht das Taj Mahal, eines der schönsten Bauwerke der Welt.",
-    "description5": "Spaßfakt: Kühe sind in Indien heilig.",
-    "imagePath": "assets/photos/IN.jpg",
-    "youtubeVideoId": "GyrqM_116VU",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist das Nationaltier Indiens?",
-          "options": [
-            "assets/photos/tiger.jpg",
-            "assets/photos/moose.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/peacock.jpg"
-          ],
-          "correctAnswer": "assets/photos/tiger.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "ZA",
-    "title": "🇿🇦 Südafrika 🇿🇦",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstädte: Pretoria, Kapstadt und Bloemfontein",
-    "description3": "Sprachen: 11 offizielle Sprachen (z. B. Englisch, Zulu)",
-    "description4": "Besonderheit: Es wird „Regenbogennation“ genannt wegen seiner Vielfalt.",
-    "description5": "Spaßfakt: Hier leben die Big Five: Löwe, Elefant, Nashorn, Büffel und Leopard.",
-    "imagePath": "assets/photos/ZA.jpg",
-    "youtubeVideoId": "kJPAvGJPCxI",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier gehört nicht zu den Big Five in Südafrika?",
-          "options": [
-            "assets/photos/elephant.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/bear.jpg",
-            "assets/photos/rhinoceros.jpg"
-          ],
-          "correctAnswer": "assets/photos/bear.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "RU",
-    "title": "🇷🇺 Russland 🇷🇺",
-    "description1": "Kontinent: Europa und Asien",
-    "description2": "Hauptstadt: Moskau",
-    "description3": "Sprache: Russisch",
-    "description4": "Besonderheit: Es ist das größte Land der Welt und hat viele Zeitzonen!",
-    "description5": "Spaßfakt: Russen lieben Tee – oft trinken sie ihn mit Marmelade.",
-    "imagePath": "assets/photos/RU.jpg",
-    "youtubeVideoId": "D5ZZudWJZS4",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier lebt in Russland?",
-          "options": [
-            "assets/photos/bear.jpg",
-            "assets/photos/tiger.jpg",
-            "assets/photos/rhinoceros.jpg",
-            "assets/photos/elephant.jpg"
-          ],
-          "correctAnswer": "assets/photos/bear.jpg"
-        },
-        {
-          "question": "Welches Auto wird in Russland hergestellt??",
-          "options": [
-            "assets/photos/audi.jpg",
-            "assets/photos/mercedes.jpg",
-            "assets/photos/lada.jpg",
-            "assets/photos/vw.jpg"
-          ],
-          "correctAnswer": "assets/photos/lada.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "JP",
-    "title": "🇯🇵 Japan 🇯🇵",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Tokio",
-    "description3": "Sprache: Japanisch",
-    "description4": "Besonderheit: Hier gibt es Sushi und die berühmten Kirschblüten.",
-    "description5": "Spaßfakt: Japan hat Automaten, die fast alles verkaufen – sogar warme Suppen!",
-    "imagePath": "assets/photos/JP.jpg",
-    "youtubeVideoId": "2Vp5nMLlaNA",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier kann man in Nara Park in Japan beobachten?",
-          "options": [
-            "assets/photos/deer.jpg",
-            "assets/photos/tiger.jpg",
-            "assets/photos/elephant.jpg",
-            "assets/photos/camel.jpg"
-          ],
-          "correctAnswer": "assets/photos/deer.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "EG",
-    "title": "🇪🇬 Ägypten 🇪🇬",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Kairo",
-    "description3": "Sprache: Arabisch",
-    "description4": "Besonderheit: Hier stehen die Pyramiden von Gizeh – die ältesten Bauwerke der Welt.",
-    "description5": "Spaßfakt: Katzen wurden in Ägypten als heilig angesehen.",
-    "imagePath": "assets/photos/EG.jpg",
-    "youtubeVideoId": "nMroN9KrclA",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier wurde im alten Ägypten verehrt?",
-          "options": [
-            "assets/photos/cat.jpg",
-            "assets/photos/dog.jpg",
-            "assets/photos/camel.jpg",
-            "assets/photos/lion.jpg"
-          ],
-          "correctAnswer": "assets/photos/cat.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "TR",
-    "title": "🇹🇷 Türkei 🇹🇷",
-    "description1": "Kontinent: Europa und Asien",
-    "description2": "Hauptstadt: Ankara",
-    "description3": "Sprache: Türkisch",
-    "description4": "Besonderheit: Die Türkei ist bekannt für ihre Gastfreundschaft und ihre Basare.",
-    "description5": "Spaßfakt: Der Döner, den viele in Deutschland lieben, kommt aus der Türkei!",
-    "imagePath": "assets/photos/TR.jpg",
-    "youtubeVideoId": "b1-u-CMf320",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches traditionelle Gericht stammt aus der Türkei?",
-          "options": [
-            "assets/photos/doner.jpg",
-            "assets/photos/pizza.jpg",
-            "assets/photos/burger.jpg",
-            "assets/photos/sushi.jpg"
-          ],
-          "correctAnswer": "assets/photos/doner.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "SY",
-    "title": "🇸🇾 Syrien 🇸🇾",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Damaskus",
-    "description3": "Sprache: Arabisch",
-    "description4": "Besonderheit: Damaskus gehört zu den ältesten Städten der Welt.",
-    "description5": "Spaßfakt: Syrische Küche hat viele leckere Gerichte wie Falafel und Hummus.",
-    "imagePath": "assets/photos/SY.jpg",
-    "youtubeVideoId": "MISSING",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Gericht ist in der syrischen Küche sehr beliebt?",
-          "options": [
-            "assets/photos/falafel.jpg",
-            "assets/photos/pasta.jpg",
-            "assets/photos/burger.jpg",
-            "assets/photos/noodles.jpg"
-          ],
-          "correctAnswer": "assets/photos/falafel.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "DE",
-    "title": "🇩🇪 Deutschland 🇩🇪",
-    "description1": "Kontinent: Europa",
-    "description2": "Hauptstadt: Berlin",
-    "description3": "Sprache: Deutsch",
-    "description4": "Besonderheit: Das Land hat viele Burgen, Wälder und das Oktoberfest!",
-    "description5": "Spaßfakt: Die längste Bratwurst der Welt war über 5 Kilometer lang!",
-    "imagePath": "assets/photos/DE.jpg",
-    "youtubeVideoId": "PYZB8vyQLLo",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches dieser berühmten Bauwerke steht in Berlin?",
-          "options": [
-            "assets/photos/brandenburg_gate.jpg",
-            "assets/photos/eiffel_tower.jpg",
-            "assets/photos/colosseum.jpg",
-            "assets/photos/statue_of_liberty.jpg"
-          ],
-          "correctAnswer": "assets/photos/brandenburg_gate.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "BR",
-    "title": "🇧🇷 Brasilien 🇧🇷",
-    "description1": "Kontinent: Südamerika",
-    "description2": "Hauptstadt: Brasília",
-    "description3": "Sprache: Portugiesisch",
-    "description4": "Besonderheit: Der Amazonas-Regenwald ist hier – einer der größten Wälder der Welt!",
-    "description5": "Spaßfakt: Der berühmte Karneval in Rio hat gigantische Paraden mit bunten Kostümen.",
-    "imagePath": "assets/photos/BR.jpg",
-    "youtubeVideoId": "9Qrx7hRpigU",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier lebt im Amazonas-Regenwald?",
-          "options": [
-            "assets/photos/jaguar.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/crocodile.jpg",
-            "assets/photos/lion.jpg"
-          ],
-          "correctAnswer": "assets/photos/jaguar.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "CN",
-    "title": "🇨🇳 China 🇨🇳",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Peking",
-    "description3": "Sprache: Chinesisch (Mandarin)",
-    "description4": "Besonderheit: Hier steht die Chinesische Mauer, die über 21.000 Kilometer lang ist!",
-    "description5": "Spaßfakt: Pandas kommen ursprünglich aus China.",
-    "imagePath": "assets/photos/CN.jpg",
-    "youtubeVideoId": "OykXpv_c5NA",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist ein Symbol für China und sehr beliebt?",
-          "options": [
-            "assets/photos/panda.jpg",
-            "assets/photos/tiger.jpg",
-            "assets/photos/monkey.jpg",
-            "assets/photos/elephant.jpg"
-          ],
-          "correctAnswer": "assets/photos/panda.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "AU",
-    "title": "🇦🇺 Australien 🇦🇺",
-    "description1": "Kontinent: Australien (Ozeanien)",
-    "description2": "Hauptstadt: Canberra",
-    "description3": "Sprache: Englisch",
-    "description4": "Besonderheit: Hier leben Kängurus, Koalas und das berühmte Great Barrier Reef.",
-    "description5": "Spaßfakt: Australien hat mehr Schafe als Menschen!",
-    "imagePath": "assets/photos/AU.jpg",
-    "youtubeVideoId": "cTpIGLdmFpI",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches dieser Tiere ist typisch für Australien?",
-          "options": [
-            "assets/photos/kangaroo.jpg",
-            "assets/photos/tiger.jpg",
-            "assets/photos/elephant.jpg",
-            "assets/photos/penguin.jpg"
-          ],
-          "correctAnswer": "assets/photos/kangaroo.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "AF",
-    "title": "🇦🇫 Afghanistan 🇦🇫",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Kabul",
-    "description3": "Sprachen: Dari und Paschtu",
-    "description4": "Besonderheit: Afghanistan hat viele Berge und beeindruckende Landschaften.",
-    "description5": "Spaßfakt: Drachen steigen lassen ist ein beliebtes Hobby in Afghanistan.",
-    "imagePath": "assets/photos/AF.jpg",
-    "youtubeVideoId": "b6bapGaopyY",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches dieser Tiere lebt in den Bergen Afghanistans?",
-          "options": [
-            "assets/photos/snow_leopard.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/elephant.jpg",
-            "assets/photos/camel.jpg"
-          ],
-          "correctAnswer": "assets/photos/snow_leopard.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "PL",
-    "title": "🇵🇱 Polen 🇵🇱",
-    "description1": "Kontinent: Europa",
-    "description2": "Hauptstadt: Warschau",
-    "description3": "Sprache: Polnisch",
-    "description4": "Besonderheit: Polen hat viele Burgen und eine reiche Geschichte.",
-    "description5": "Spaßfakt: Pierogi (gefüllte Teigtaschen) sind ein berühmtes polnisches Gericht.",
-    "imagePath": "assets/photos/PL.jpg",
-    "youtubeVideoId": "MtBjjh8yHX8",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches dieser Tiere ist ein Symbol Polens?",
-          "options": [
-            "assets/photos/eagle.jpg",
-            "assets/photos/bison.jpg",
-            "assets/photos/wolf.jpg",
-            "assets/photos/deer.jpg"
-          ],
-          "correctAnswer": "assets/photos/eagle.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "RO",
-    "title": "🇷🇴 Rumänien 🇷🇴",
-    "description1": "Kontinent: Europa",
-    "description2": "Hauptstadt: Bukarest",
-    "description3": "Sprache: Rumänisch",
-    "description4": "Besonderheit: In Rumänien liegt Transsilvanien, bekannt aus Dracula-Geschichten.",
-    "description5": "Spaßfakt: Die rumänische Flagge hat die Farben Blau, Gelb und Rot.",
-    "imagePath": "assets/photos/RO.jpg",
-    "youtubeVideoId": "KlCihAm3F68",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier lebt in den Karpaten in Rumänien?",
-          "options": [
-            "assets/photos/bear.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/elephant.jpg",
-            "assets/photos/deer.jpg"
-          ],
-          "correctAnswer": "assets/photos/bear.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "IQ",
-    "title": "🇮🇶 Irak 🇮🇶",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Bagdad",
-    "description3": "Sprache: Arabisch und Kurdisch",
-    "description4": "Besonderheit: Der Irak liegt am Fluss Euphrat und hat eine lange Geschichte.",
-    "description5": "Spaßfakt: Viele irakische Gerichte verwenden Datteln und Lammfleisch.",
-    "imagePath": "assets/photos/IQ.jpg",
-    "youtubeVideoId": "kLIWDs9MbM4",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist gut an das Leben in der Wüste angepasst?",
-          "options": [
-            "assets/photos/camel.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/kangaroo.jpg",
-            "assets/photos/panda.jpg"
-          ],
-          "correctAnswer": "assets/photos/camel.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "MA",
-    "title": "🇲🇦 Marokko 🇲🇦",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Rabat",
-    "description3": "Sprache: Arabisch und Tamazight (Berbersprache)",
-    "description4": "Besonderheit: Marokko ist bekannt für seine bunten Märkte und die Sahara-Wüste.",
-    "description5": "Spaßfakt: Marokkanischer Minztee ist ein Symbol für Gastfreundschaft.",
-    "imagePath": "assets/photos/MA.jpg",
-    "youtubeVideoId": "myoN2D-2Uvg",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist oft in der Sahara zu sehen?",
-          "options": [
-            "assets/photos/camel.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/elephant.jpg",
-            "assets/photos/falcon.jpg"
-          ],
-          "correctAnswer": "assets/photos/camel.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "FR",
-    "title": "🇫🇷 Frankreich 🇫🇷",
-    "description1": "Kontinent: Europa",
-    "description2": "Hauptstadt: Paris",
-    "description3": "Sprache: Französisch",
-    "description4": "Besonderheit: Frankreich ist berühmt für seinen Eiffelturm, Croissants und seine Modehauptstadt.",
-    "description5": "Spaßfakt: Frankreich ist das meistbesuchte Land der Welt und hat über 40 UNESCO-Welterbestätten!",
-    "imagePath": "assets/photos/FR.jpg",
-    "youtubeVideoId": "1EHg4DM43xY",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Essen ist ein Symbol Frankreichs?",
-          "options": [
-            "assets/photos/doner.jpg",
-            "assets/photos/pizza.jpg",
-            "assets/photos/burger.jpg",
-            "assets/photos/baguette.jpg"
-          ],
-          "correctAnswer": "assets/photos/baguette.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "VN",
-    "title": "🇻🇳 Vietnam 🇻🇳",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Hanoi",
-    "description3": "Sprache: Vietnamesisch",
-    "description4": "Besonderheit: Vietnam ist bekannt für seine Reisfelder und das leckere Essen.",
-    "description5": "Spaßfakt: Das traditionelle vietnamesische Kleid heißt „Áo dài“.",
-    "imagePath": "assets/photos/VN.jpg",
-    "youtubeVideoId": "zeJ4nnmYkxo",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist ein wichtiger Helfer in den Reisfeldern Vietnams?",
-          "options": [
-            "assets/photos/water_buffalo.jpg",
-            "assets/photos/cow.jpg",
-            "assets/photos/donkey.jpg",
-            "assets/photos/horse.jpg"
-          ],
-          "correctAnswer": "assets/photos/water_buffalo.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "IT",
-    "title": "🇮🇹 Italien 🇮🇹",
-    "description1": "Kontinent: Europa",
-    "description2": "Hauptstadt: Rom",
-    "description3": "Sprache: Italienisch",
-    "description4": "Besonderheit: Viele Italiener kamen nach Deutschland, um beim Aufbau nach dem Krieg zu helfen.",
-    "description5": "Spaßfakt: Italien hat die meisten UNESCO-Weltkulturerbestätten der Welt!",
-    "imagePath": "assets/photos/IT.jpg",
-    "youtubeVideoId": "66HbNeHb6Nc",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist laut einer Legende ein Gründungszeichen Roms?",
-          "options": [
-            "assets/photos/wolf.jpg",
-            "assets/photos/eagle.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/bear.jpg"
-          ],
-          "correctAnswer": "assets/photos/wolf.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "US",
-    "title": "🇺🇸 Vereinigte Staaten von Amerika 🇺🇸",
-    "description1": "Kontinent: Nordamerika",
-    "description2": "Hauptstadt: Washington, D.C.",
-    "description3": "Sprache: Englisch",
-    "description4": "Besonderheit: Die USA haben weltweit die größte Wirtschaft und eine große Bedeutung in der Welt.",
-    "description5": "Spaßfakt: Die USA waren das erste Land, das Menschen auf den Mond geschickt hat.",
-    "imagePath": "assets/photos/US.jpg",
-    "youtubeVideoId": "BFkvGfedshA",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist ein Symbol der Vereinigten Staaten?",
-          "options": [
-            "assets/photos/eagle.jpg",
-            "assets/photos/bear.jpg",
-            "assets/photos/tiger.jpg",
-            "assets/photos/lion.jpg"
-          ],
-          "correctAnswer": "assets/photos/eagle.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "UA",
-    "title": "🇺🇦 Ukraine 🇺🇦",
-    "description1": "Kontinent: Europa",
-    "description2": "Hauptstadt: Kiew",
-    "description3": "Sprache: Ukrainisch",
-    "description4": "Besonderheit: Ist das zweitgrößte Land Europas.",
-    "description5": "Spaßfakt: Die Tradition der bunt bemalten Ostereier kommt aus der Ukraine.",
-    "imagePath": "assets/photos/UA.jpg",
-    "youtubeVideoId": "rTKAMyQ_Bqs",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welcher Vogel wird in der Ukraine oft als Glücksbringer gesehen, wenn er auf Häusern nistet?",
-          "options": [
-            "assets/photos/stork.jpg",
-            "assets/photos/robin.jpg",
-            "assets/photos/owl.jpg",
-            "assets/photos/sparrow.jpg"
-          ],
-          "correctAnswer": "assets/photos/stork.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "ARCTIC",
-    "title": "🐻‍❄️ Nordpol 🐻‍❄️",
-    "description1": "Kontinent: Arktis",
-    "description2": "Sprache: International",
-    "description3": "Besonderheit: EISBÄREN!!!",
-    "description4": "Spaßfakt: Die Arktis hat, anders als die Antarktis, keinen festen Boden. Sie besteht komplett aus meterdickem schwimmenden Eis.",
-    "imagePath": "assets/photos/ARCTIC.jpg",
-    "youtubeVideoId": "WyPW_mWPF1E",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist ein Symbol für die Arktis?",
-          "options": [
-            "assets/photos/polar_bear.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/seal.jpg",
-            "assets/photos/whale.jpg"
-          ],
-          "correctAnswer": "assets/photos/polar_bear.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "ANTARCTICA",
-    "title": "🐧 Südpol 🐧",
-    "description1": "Kontinent: Antarktis",
-    "description2": "Sprache: International",
-    "description3": "Besonderheit: PINGUINE!!!",
-    "description4": "Spaßfakt: Ca. 30 Länder betreiben etwa 80 Forschungsstationen auf dem Kontinent.",
-    "imagePath": "assets/photos/ANTARCTICA.jpg",
-    "youtubeVideoId": "nywsA8wCCfY",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist ein typisches Symbol der Antarktis?",
-          "options": [
-            "assets/photos/penguin.jpg",
-            "assets/photos/seal.jpg",
-            "assets/photos/polar_bear.jpg",
-            "assets/photos/ostrich.jpg"
-          ],
-          "correctAnswer": "assets/photos/penguin.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "MX",
-    "title": "🇲🇽 Mexiko 🇲🇽",
-    "description1": "Kontinent: Nordamerika",
-    "description2": "Hauptstadt: Mexiko-Stadt",
-    "description3": "Sprache: Spanisch",
-    "description4": "Besonderheit: Heimat der alten Azteken und Maya-Zivilisationen.",
-    "description5": "Spaßfakt: Mexiko hat die größte Anzahl von UNESCO-Welterbestätten in Amerika!",
-    "imagePath": "assets/photos/MX.jpg",
-    "youtubeVideoId": "veLz8skJa1Y",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist ein Symbol Mexikos?",
-          "options": [
-            "assets/photos/jaguar.jpg",
-            "assets/photos/eagle.jpg",
-            "assets/photos/camel.jpg",
-            "assets/photos/eagle.jpg"
-          ],
-          "correctAnswer": "assets/photos/eagle.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "ES",
-    "title": "🇪🇸 Spanien 🇪🇸",
-    "description1": "Kontinent: Europa",
-    "description2": "Hauptstadt: Madrid",
-    "description3": "Sprachen: Spanisch, Katalanisch, Baskisch",
-    "description4": "Besonderheit: Bekannt für Flamenco-Tanz und Paella.",
-    "description5": "Spaßfakt: Spanien hat eine Zeitzone, die nicht zur geografischen Lage passt!",
-    "imagePath": "assets/photos/ES.jpg",
-    "youtubeVideoId": "RKt5QLafJ3Q",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Bauwerk steht in Barcelona?",
-          "options": [
-            "assets/photos/sagrada_familia.jpg",
-            "assets/photos/eiffel_tower.jpg",
-            "assets/photos/colosseum.jpg",
-            "assets/photos/big_ben.jpg"
-          ],
-          "correctAnswer": "assets/photos/sagrada_familia.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "NZ",
-    "title": "🇳🇿 Neuseeland 🇳🇿",
-    "description1": "Kontinent: Ozeanien",
-    "description2": "Hauptstadt: Wellington",
-    "description3": "Sprache: Englisch, Māori",
-    "description4": "Besonderheit: Drehort für „Der Herr der Ringe“.",
-    "description5": "Spaßfakt: Hier leben mehr Schafe als Menschen!",
-    "imagePath": "assets/photos/NZ.jpg",
-    "youtubeVideoId": "XO1ImLAy5yc",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist ein Nationalsymbol Neuseelands?",
-          "options": [
-            "assets/photos/kiwi.jpg",
-            "assets/photos/kangaroo.jpg",
-            "assets/photos/koala.jpg",
-            "assets/photos/penguin.jpg"
-          ],
-          "correctAnswer": "assets/photos/kiwi.jpg"
-        }
-      ]
-    }
-  },
-  
-  {
-    "id": "GB",
-    "title": "🇬🇧 Vereinigtes Königreich 🇬🇧",
-    "description1": "Kontinent: Europa",
-    "description2": "Hauptstadt: London",
-    "description3": "Sprache: Englisch",
-    "description4": "Besonderheit: Berühmt für seine Geschichte, den Buckingham Palace und Teatime.",
-    "description5": "Spaßfakt: Die britische Tradition des Afternoon Tea ist weltbekannt.",
-    "imagePath": "assets/photos/GB.jpg",
-    "youtubeVideoId": "MOWyyxKs27g",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier symbolisiert das Vereinigte Königreich?",
-          "options": [
-            "assets/photos/lion.jpg",
-            "assets/photos/eagle.jpg",
-            "assets/photos/bear.jpg",
-            "assets/photos/wolf.jpg"
-          ],
-          "correctAnswer": "assets/photos/lion.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "NL",
     "title": "🇳🇱 Niederlande 🇳🇱",
     "description1": "Kontinent: Europa",
@@ -784,56 +75,6 @@
     }
   },
   {
-    "id": "SE",
-    "title": "🇸🇪 Schweden 🇸🇪",
-    "description1": "Kontinent: Europa",
-    "description2": "Hauptstadt: Stockholm",
-    "description3": "Sprache: Schwedisch",
-    "description4": "Besonderheit: Bekannt für innovatives Design, Musik und weite Naturflächen.",
-    "description5": "Spaßfakt: Schwedische Möbel von IKEA sind weltweit beliebt.",
-    "imagePath": "assets/photos/SE.jpg",
-    "youtubeVideoId": "8eiLdGCbTSk",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier symbolisiert die schwedische Wildnis?",
-          "options": [
-            "assets/photos/moose.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/wolf.jpg"
-          ],
-          "correctAnswer": "assets/photos/moose.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "NO",
-    "title": "🇳🇴 Norwegen 🇳🇴",
-    "description1": "Kontinent: Europa",
-    "description2": "Hauptstadt: Oslo",
-    "description3": "Sprache: Norwegisch",
-    "description4": "Besonderheit: Berühmt für seine majestätischen Fjorde und das Nordlicht.",
-    "description5": "Spaßfakt: Die Wikingergeschichte prägt Norwegens Identität.",
-    "imagePath": "assets/photos/NO.jpg",
-    "youtubeVideoId": "JY4jiFOFT7I",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist typisch für Norwegens Wildnis?",
-          "options": [
-            "assets/photos/reindeer.jpg",
-            "assets/photos/camel.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/eagle.jpg"
-          ],
-          "correctAnswer": "assets/photos/reindeer.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "DK",
     "title": "🇩🇰 Dänemark 🇩🇰",
     "description1": "Kontinent: Europa",
@@ -854,31 +95,6 @@
             "assets/photos/wolf.jpg"
           ],
           "correctAnswer": "assets/photos/mermaid.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "FI",
-    "title": "🇫🇮 Finnland 🇫🇮",
-    "description1": "Kontinent: Europa",
-    "description2": "Hauptstadt: Helsinki",
-    "description3": "Sprachen: Finnisch und Schwedisch",
-    "description4": "Besonderheit: Bekannt für seine unzähligen Seen und Saunakultur.",
-    "description5": "Spaßfakt: Finnland gilt als Land der tausend Seen.",
-    "imagePath": "assets/photos/FI.jpg",
-    "youtubeVideoId": "K_xr0McbAn8",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier lebt oft in finnischen Wäldern?",
-          "options": [
-            "assets/photos/bear.jpg",
-            "assets/photos/camel.jpg",
-            "assets/photos/eagle.jpg",
-            "assets/photos/frog.jpg"
-          ],
-          "correctAnswer": "assets/photos/bear.jpg"
         }
       ]
     }
@@ -905,7 +121,6 @@
           ],
           "correctAnswer": "assets/photos/irish-stew.jpg"
         }
-        
       ]
     }
   },
@@ -930,7 +145,7 @@
             "assets/photos/WienCastle.jpg"
           ],
           "correctAnswer": "assets/photos/WienCastle.jpg"
-        }        
+        }
       ]
     }
   },
@@ -1110,31 +325,6 @@
     }
   },
   {
-    "id": "GR",
-    "title": "🇬🇷 Griechenland 🇬🇷",
-    "description1": "Kontinent: Europa",
-    "description2": "Hauptstadt: Athen",
-    "description3": "Sprache: Griechisch",
-    "description4": "Besonderheit: Wiege der Demokratie und antiker Kultur.",
-    "description5": "Spaßfakt: Olivenöl und Wein aus Griechenland sind weltberühmt.",
-    "imagePath": "assets/photos/GR.jpg",
-    "youtubeVideoId": "DNRznj3ZBCw",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Symbol repräsentiert Griechenland?",
-          "options": [
-            "assets/photos/olive.jpg",
-            "assets/photos/wolf.jpg",
-            "assets/photos/eagle.jpg",
-            "assets/photos/camel.jpg"
-          ],
-          "correctAnswer": "assets/photos/olive.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "PT",
     "title": "🇵🇹 Portugal 🇵🇹",
     "description1": "Kontinent: Europa",
@@ -1155,31 +345,6 @@
             "assets/photos/penguin.jpg"
           ],
           "correctAnswer": "assets/photos/fish.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "SA",
-    "title": "🇸🇦 Saudi-Arabien 🇸🇦",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Riad",
-    "description3": "Sprache: Arabisch",
-    "description4": "Besonderheit: Bekannt für weite Wüsten und bedeutende Ölreserven.",
-    "description5": "Spaßfakt: In Saudi-Arabien gibt es keine Flüsse.",
-    "imagePath": "assets/photos/SA.jpg",
-    "youtubeVideoId": "mUqtgisg4bA",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist typisch für die Wüste?",
-          "options": [
-            "assets/photos/camel.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/bear.jpg",
-            "assets/photos/tiger.jpg"
-          ],
-          "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
     }
@@ -1210,31 +375,6 @@
     }
   },
   {
-    "id": "KR",
-    "title": "🇰🇷 Südkorea 🇰🇷",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Seoul",
-    "description3": "Sprache: Koreanisch",
-    "description4": "Besonderheit: Bekannt für Technologie, Popkultur und dynamische Städte.",
-    "description5": "Spaßfakt: K-Pop und koreanische Dramen haben weltweite Fangemeinden.",
-    "imagePath": "assets/photos/KR.jpg",
-    "youtubeVideoId": "gEeV54FClz4",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Symbol passt zu Südkorea?",
-          "options": [
-            "assets/photos/monkey.jpg",
-            "assets/photos/eagle.jpg",
-            "assets/photos/tiger.jpg",
-            "assets/photos/wolf.jpg"
-          ],
-          "correctAnswer": "assets/photos/tiger.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "IL",
     "title": "🇮🇱 Israel 🇮🇱",
     "description1": "Kontinent: Asien",
@@ -1260,31 +400,6 @@
     }
   },
   {
-    "id": "PK",
-    "title": "🇵🇰 Pakistan 🇵🇰",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Islamabad",
-    "description3": "Sprachen: Urdu und Englisch",
-    "description4": "Besonderheit: Bekannt für beeindruckende Berglandschaften und kulturelle Vielfalt.",
-    "description5": "Spaßfakt: Pakistan beheimatet den K2, den zweithöchsten Berg der Welt.",
-    "imagePath": "assets/photos/PK.jpg",
-    "youtubeVideoId": "Ss4S03FKzQ8",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier findet man in den Bergen Pakistans?",
-          "options": [
-            "assets/photos/snow_leopard.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/camel.jpg",
-            "assets/photos/deer.jpg"
-          ],
-          "correctAnswer": "assets/photos/snow_leopard.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "BD",
     "title": "🇧🇩 Bangladesch 🇧🇩",
     "description1": "Kontinent: Asien",
@@ -1305,31 +420,6 @@
             "assets/photos/lion.jpg"
           ],
           "correctAnswer": "assets/photos/tiger.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "ID",
-    "title": "🇮🇩 Indonesien 🇮🇩",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Jakarta",
-    "description3": "Sprache: Indonesisch",
-    "description4": "Besonderheit: Bekannt für seine Inseln, Vulkane und vielfältige Kultur.",
-    "description5": "Spaßfakt: Bali ist eines der beliebtesten Reiseziele weltweit.",
-    "imagePath": "assets/photos/ID.jpg",
-    "youtubeVideoId": "kX4Pn5_hOOE",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist typisch für Indonesien?",
-          "options": [
-            "assets/photos/orangutan.jpg",
-            "assets/photos/koala.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/elephant.jpg"
-          ],
-          "correctAnswer": "assets/photos/orangutan.jpg"
         }
       ]
     }
@@ -1385,31 +475,6 @@
     }
   },
   {
-    "id": "TH",
-    "title": "🇹🇭 Thailand 🇹🇭",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Bangkok",
-    "description3": "Sprache: Thailändisch",
-    "description4": "Besonderheit: Berühmt für seine Tempel, Strände und köstliche Küche.",
-    "description5": "Spaßfakt: Thai-Massagen und Straßenessen sind weltbekannt.",
-    "imagePath": "assets/photos/TH.jpg",
-    "youtubeVideoId": "0tGcKzpdRqA",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier symbolisiert Thailand?",
-          "options": [
-            "assets/photos/elephant.jpg",
-            "assets/photos/camel.jpg",
-            "assets/photos/tiger.jpg",
-            "assets/photos/deer.jpg"
-          ],
-          "correctAnswer": "assets/photos/elephant.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "AL",
     "title": "🇦🇱 Albanien 🇦🇱",
     "description1": "Kontinent: Europa",
@@ -1422,39 +487,14 @@
     "quiz": {
       "questions": [
         {
-            "question": "Welches Tier ist ein Symbol für Albanien?",
-            "options": [
-              "assets/photos/eagle.jpg",
-              "assets/photos/wolf.jpg",
-              "assets/photos/bear.jpg",
-              "assets/photos/fox.jpg"
-            ],
-            "correctAnswer": "assets/photos/eagle.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "DZ",
-    "title": "🇩🇿 Algerien 🇩🇿",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Algier",
-    "description3": "Sprachen: Arabisch, Berber",
-    "description4": "Besonderheit: Größtes Land Afrikas mit beeindruckenden Wüstenlandschaften.",
-    "description5": "Spaßfakt: Algerien ist reich an kultureller Vielfalt und Naturwundern.",
-    "imagePath": "assets/photos/DZ.jpg",
-    "youtubeVideoId": "gkm-cCvfpSA",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Landschaft ist typisch für Algerien?",
+          "question": "Welches Tier ist ein Symbol für Albanien?",
           "options": [
-            "assets/photos/desert.jpg",
-            "assets/photos/joungle.jpg",
-            "assets/photos/mountains.jpg",
-            "assets/photos/coast.jpg"
+            "assets/photos/eagle.jpg",
+            "assets/photos/wolf.jpg",
+            "assets/photos/bear.jpg",
+            "assets/photos/fox.jpg"
           ],
-          "correctAnswer": "assets/photos/desert.jpg"
+          "correctAnswer": "assets/photos/eagle.jpg"
         }
       ]
     }
@@ -1485,31 +525,6 @@
     }
   },
   {
-    "id": "AO",
-    "title": "🇦🇴 Angola 🇦🇴",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Luanda",
-    "description3": "Sprache: Portugiesisch",
-    "description4": "Besonderheit: Reich an natürlichen Ressourcen und kultureller Vielfalt.",
-    "description5": "Spaßfakt: Angola ist bekannt für seine Elefanten und Antilopen.",
-    "imagePath": "assets/photos/AO.jpg",
-    "youtubeVideoId": "MISSING",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist typisch für Angola?",
-          "options": [
-            "assets/photos/elephant.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/antelope.jpg",
-            "assets/photos/monkey.jpg"
-          ],
-          "correctAnswer": "assets/photos/elephant.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "AG",
     "title": "🇦🇬 Antigua und Barbuda 🇦🇬",
     "description1": "Kontinent: Nordamerika",
@@ -1535,31 +550,6 @@
     }
   },
   {
-    "id": "AR",
-    "title": "🇦🇷 Argentinien 🇦🇷",
-    "description1": "Kontinent: Südamerika",
-    "description2": "Hauptstadt: Buenos Aires",
-    "description3": "Sprache: Spanisch",
-    "description4": "Besonderheit: Heimat des Tangos und vielfältiger Landschaften.",
-    "description5": "Spaßfakt: Der Andenkondor ist das Nationalsymbol.",
-    "imagePath": "assets/photos/AR.jpg",
-    "youtubeVideoId": "1ClBVWf8Aqw",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist ein Symbol für Argentinien?",
-          "options": [
-            "assets/photos/condor.jpg",
-            "assets/photos/guanaco.jpg",
-            "assets/photos/puma.jpg",
-            "assets/photos/fox.jpg"
-          ],
-          "correctAnswer": "assets/photos/condor.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "AM",
     "title": "🇦🇲 Armenien 🇦🇲",
     "description1": "Kontinent: Europa",
@@ -1580,31 +570,6 @@
             "assets/photos/eagle.jpg"
           ],
           "correctAnswer": "assets/photos/leopard.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "AZ",
-    "title": "🇦🇿 Aserbaidschan 🇦🇿",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Baku",
-    "description3": "Sprache: Aserbaidschanisch",
-    "description4": "Besonderheit: Moderne Architektur trifft auf traditionelle Kultur.",
-    "description5": "Spaßfakt: Im Kaukasus leben Braunbären und Wölfe.",
-    "imagePath": "assets/photos/AZ.jpg",
-    "youtubeVideoId": "pg8xIOiP4rI",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist typisch für Aserbaidschan?",
-          "options": [
-            "assets/photos/bear.jpg",
-            "assets/photos/wolf.jpg",
-            "assets/photos/eagle.jpg",
-            "assets/photos/lynx.jpg"
-          ],
-          "correctAnswer": "assets/photos/wolf.jpg"
         }
       ]
     }
@@ -1785,31 +750,6 @@
     }
   },
   {
-    "id": "BO",
-    "title": "🇧🇴 Bolivien 🇧🇴",
-    "description1": "Kontinent: Südamerika",
-    "description2": "Hauptstadt: Sucre / La Paz",
-    "description3": "Sprachen: Spanisch, Quechua, Aymara",
-    "description4": "Besonderheit: Ein Land der Anden und des Amazonas, reich an indigenen Kulturen.",
-    "description5": "Spaßfakt: Bolivien beheimatet den Salar de Uyuni, die größte Salzwüste der Welt.",
-    "imagePath": "assets/photos/BO.jpg",
-    "youtubeVideoId": "ltp6F4RJ4DI",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist in den Anden Boliviens heimisch?",
-          "options": [
-            "assets/photos/llama.jpg",
-            "assets/photos/camel.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/wolf.jpg"
-          ],
-          "correctAnswer": "assets/photos/llama.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "BA",
     "title": "🇧🇦 Bosnien und Herzegowina 🇧🇦",
     "description1": "Kontinent: Europa",
@@ -1830,31 +770,6 @@
             "assets/photos/fox.jpg"
           ],
           "correctAnswer": "assets/photos/wolf.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "BW",
-    "title": "🇧🇼 Botswana 🇧🇼",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Gaborone",
-    "description3": "Sprachen: Englisch, Setswana",
-    "description4": "Besonderheit: Ein Land mit unberührten Savannen und reicher Tierwelt.",
-    "description5": "Spaßfakt: Botswana ist berühmt für das Okavango-Delta.",
-    "imagePath": "assets/photos/BW.jpg",
-    "youtubeVideoId": "MISSING",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist in Botswanas Wildreservaten heimisch?",
-          "options": [
-            "assets/photos/elephant.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/koala.jpg",
-            "assets/photos/tiger.jpg"
-          ],
-          "correctAnswer": "assets/photos/elephant.jpg"
         }
       ]
     }
@@ -2010,31 +925,6 @@
     }
   },
   {
-    "id": "CF",
-    "title": "🇨🇫 Zentralafrikanische Republik 🇨🇫",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Bangui",
-    "description3": "Sprachen: Sango, Französisch",
-    "description4": "Besonderheit: Ein Binnenstaat mit weiten Savannen und Wäldern.",
-    "description5": "Spaßfakt: Die Tierwelt ist hier sehr vielfältig.",
-    "imagePath": "assets/photos/CF.jpg",
-    "youtubeVideoId": "MISSING",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist typisch in den Savannen der Zentralafrikanischen Republik?",
-          "options": [
-            "assets/photos/lion.jpg",
-            "assets/photos/giraffe.jpg",
-            "assets/photos/elephant.jpg",
-            "assets/photos/cheetah.jpg"
-          ],
-          "correctAnswer": "assets/photos/lion.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "TD",
     "title": "🇹🇩 Tschad 🇹🇩",
     "description1": "Kontinent: Afrika",
@@ -2080,31 +970,6 @@
             "assets/photos/eagle.jpg"
           ],
           "correctAnswer": "assets/photos/llama.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "CO",
-    "title": "🇨🇴 Kolumbien 🇨🇴",
-    "description1": "Kontinent: Südamerika",
-    "description2": "Hauptstadt: Bogotá",
-    "description3": "Sprache: Spanisch",
-    "description4": "Besonderheit: Ein Land mit Regenwäldern, Anden und Karibikstränden.",
-    "description5": "Spaßfakt: Kolumbien ist der größte Kaffeeproduzent der Welt.",
-    "imagePath": "assets/photos/CO.jpg",
-    "youtubeVideoId": "ltp6F4RJ4DI",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist in den kolumbianischen Regenwäldern heimisch?",
-          "options": [
-            "assets/photos/jaguar.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/koala.jpg",
-            "assets/photos/tiger.jpg"
-          ],
-          "correctAnswer": "assets/photos/jaguar.jpg"
         }
       ]
     }
@@ -2160,31 +1025,6 @@
     }
   },
   {
-    "id": "CD",
-    "title": "🇨🇩 Demokratische Republik Kongo 🇨🇩",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Kinshasa",
-    "description3": "Sprachen: Französisch, Lingala, Swahili",
-    "description4": "Besonderheit: Ein riesiger Staat mit üppigen Regenwäldern.",
-    "description5": "Spaßfakt: Die DR Kongo beherbergt viele endemische Tierarten.",
-    "imagePath": "assets/photos/CD.jpg",
-    "youtubeVideoId": "FoZhtu__YH0",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier findet man in den kongolesischen Wäldern?",
-          "options": [
-            "assets/photos/gorilla.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/tiger.jpg",
-            "assets/photos/deer.jpg"
-          ],
-          "correctAnswer": "assets/photos/gorilla.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "CR",
     "title": "🇨🇷 Costa Rica 🇨🇷",
     "description1": "Kontinent: Nordamerika (Mittelamerika)",
@@ -2205,31 +1045,6 @@
             "assets/photos/koala.jpg"
           ],
           "correctAnswer": "assets/photos/monkey.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "CU",
-    "title": "🇨🇺 Kuba 🇨🇺",
-    "description1": "Kontinent: Nordamerika (Karibik)",
-    "description2": "Hauptstadt: Havanna",
-    "description3": "Sprache: Spanisch",
-    "description4": "Besonderheit: Eine Inselnation mit reichem kulturellem Erbe.",
-    "description5": "Spaßfakt: Kuba ist bekannt für Zigarren und Oldtimer.",
-    "imagePath": "assets/photos/CU.jpg",
-    "youtubeVideoId": "fDI-IDO5KC4",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist typisch für Kuba?",
-          "options": [
-            "assets/photos/toucan.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/eagle.jpg",
-            "assets/photos/wolf.jpg"
-          ],
-          "correctAnswer": "assets/photos/toucan.jpg"
         }
       ]
     }
@@ -2510,31 +1325,6 @@
     }
   },
   {
-    "id": "ET",
-    "title": "🇪🇹 Äthiopien 🇪🇹",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Addis Abeba",
-    "description3": "Sprache: Amharisch",
-    "description4": "Besonderheit: Ein Land mit antiken Kulturen und beeindruckenden Landschaften.",
-    "description5": "Spaßfakt: Äthiopien hat einen eigenen Kalender und Zeitzone.",
-    "imagePath": "assets/photos/ET.jpg",
-    "youtubeVideoId": "TGXdqAOA5jA",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist in den äthiopischen Hochländern heimisch?",
-          "options": [
-            "assets/photos/ibex.jpg",
-            "assets/photos/camel.jpg",
-            "assets/photos/koala.jpg",
-            "assets/photos/eagle.jpg"
-          ],
-          "correctAnswer": "assets/photos/ibex.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "FJ",
     "title": "🇫🇯 Fidschi 🇫🇯",
     "description1": "Kontinent: Ozeanien",
@@ -2555,31 +1345,6 @@
             "assets/photos/seagull.jpg"
           ],
           "correctAnswer": "assets/photos/turtle.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "GA",
-    "title": "🇬🇦 Gabun 🇬🇦",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Libreville",
-    "description3": "Sprache: Französisch",
-    "description4": "Besonderheit: Ein Land in Zentralafrika, überwiegend von Regenwäldern bedeckt.",
-    "description5": "Spaßfakt: Gabun zählt zu den waldreichsten Ländern Afrikas.",
-    "imagePath": "assets/photos/GA.jpg",
-    "youtubeVideoId": "vGmeQrzgV4k",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist in den gabunischen Regenwäldern heimisch?",
-          "options": [
-            "assets/photos/gorilla.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/koala.jpg"
-          ],
-          "correctAnswer": "assets/photos/gorilla.jpg"
         }
       ]
     }
@@ -2710,31 +1475,6 @@
     }
   },
   {
-    "id": "GN",
-    "title": "🇬🇳 Guinea 🇬🇳",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Conakry",
-    "description3": "Sprache: Französisch",
-    "description4": "Besonderheit: Ein westafrikanischer Staat mit vielfältigen Landschaften.",
-    "description5": "Spaßfakt: Guinea ist reich an Bodenschätzen.",
-    "imagePath": "assets/photos/GN.jpg",
-    "youtubeVideoId": "MISSING",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier findet man in den guineischen Savannen?",
-          "options": [
-            "assets/photos/elephant.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/zebra.jpg",
-            "assets/photos/giraffe.jpg"
-          ],
-          "correctAnswer": "assets/photos/elephant.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "GW",
     "title": "🇬🇼 Guinea-Bissau 🇬🇼",
     "description1": "Kontinent: Afrika",
@@ -2810,81 +1550,6 @@
     }
   },
   {
-    "id": "HN",
-    "title": "🇭🇳 Honduras 🇭🇳",
-    "description1": "Kontinent: Nordamerika (Mittelamerika)",
-    "description2": "Hauptstadt: Tegucigalpa",
-    "description3": "Sprache: Spanisch",
-    "description4": "Besonderheit: Ein Land mit beeindruckenden Maya-Ruinen und Regenwäldern.",
-    "description5": "Spaßfakt: Honduras ist bekannt für seine Korallenriffe.",
-    "imagePath": "assets/photos/HN.jpg",
-    "youtubeVideoId": "_vTUTaZUeD8",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist in den honduranischen Regenwäldern heimisch?",
-          "options": [
-            "assets/photos/monkey.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/camel.jpg",
-            "assets/photos/koala.jpg"
-          ],
-          "correctAnswer": "assets/photos/monkey.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "IS",
-    "title": "🇮🇸 Island 🇮🇸",
-    "description1": "Kontinent: Europa",
-    "description2": "Hauptstadt: Reykjavik",
-    "description3": "Sprache: Isländisch",
-    "description4": "Besonderheit: Ein Land aus Feuer und Eis mit Geysiren und Vulkanen.",
-    "description5": "Spaßfakt: Island hat eine einzigartige geothermische Landschaft.",
-    "imagePath": "assets/photos/IS.jpg",
-    "youtubeVideoId": "MISSING",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist in der isländischen Wildnis heimisch?",
-          "options": [
-            "assets/photos/reindeer.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/koala.jpg",
-            "assets/photos/dolphin.jpg"
-          ],
-          "correctAnswer": "assets/photos/reindeer.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "IR",
-    "title": "🇮🇷 Iran 🇮🇷",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Teheran",
-    "description3": "Sprache: Persisch",
-    "description4": "Besonderheit: Ein Land mit antiken Zivilisationen und reicher Kultur.",
-    "description5": "Spaßfakt: Iran ist bekannt für persische Poesie und Teppiche.",
-    "imagePath": "assets/photos/IR.jpg",
-    "youtubeVideoId": "lIiVq2uMyhA",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier findet man in den iranischen Wüsten?",
-          "options": [
-            "assets/photos/camel.jpg",
-            "assets/photos/tiger.jpg",
-            "assets/photos/deer.jpg",
-            "assets/photos/wolf.jpg"
-          ],
-          "correctAnswer": "assets/photos/camel.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "JM",
     "title": "🇯🇲 Jamaika 🇯🇲",
     "description1": "Kontinent: Nordamerika (Karibik)",
@@ -2930,31 +1595,6 @@
             "assets/photos/fox.jpg"
           ],
           "correctAnswer": "assets/photos/camel.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "KZ",
-    "title": "🇰🇿 Kasachstan 🇰🇿",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Nur-Sultan",
-    "description3": "Sprachen: Kasachisch, Russisch",
-    "description4": "Besonderheit: Ein riesiges Land mit weiten Steppen.",
-    "description5": "Spaßfakt: Kasachstan gehört zu den flächenmäßig größten Staaten.",
-    "imagePath": "assets/photos/KZ.jpg",
-    "youtubeVideoId": "6KHhWCnMDGA",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist typisch für die kasachischen Steppen?",
-          "options": [
-            "assets/photos/camel.jpg",
-            "assets/photos/eagle.jpg",
-            "assets/photos/goat.jpg",
-            "assets/photos/wolf.jpg"
-          ],
-          "correctAnswer": "assets/photos/eagle.jpg"
         }
       ]
     }
@@ -3110,31 +1750,6 @@
     }
   },
   {
-    "id": "LV",
-    "title": "🇱🇻 Lettland 🇱🇻",
-    "description1": "Kontinent: Europa",
-    "description2": "Hauptstadt: Riga",
-    "description3": "Sprache: Lettisch",
-    "description4": "Besonderheit: Ein baltischer Staat mit reicher Folklore.",
-    "description5": "Spaßfakt: Lettland ist bekannt für mittelalterliche Städte.",
-    "imagePath": "assets/photos/LV.jpg",
-    "youtubeVideoId": "nnPCxoiQSj0",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist in den lettischen Wäldern heimisch?",
-          "options": [
-            "assets/photos/deer.jpg",
-            "assets/photos/wolf.jpg",
-            "assets/photos/bear.jpg",
-            "assets/photos/fox.jpg"
-          ],
-          "correctAnswer": "assets/photos/deer.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "LB",
     "title": "🇱🇧 Libanon 🇱🇧",
     "description1": "Kontinent: Asien",
@@ -3204,30 +1819,6 @@
             "assets/photos/koala.jpg"
           ],
           "correctAnswer": "assets/photos/monkey.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "LY",
-    "title": "🇱🇾 Libyen 🇱🇾",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Tripolis",
-    "description3": "Sprache: Arabisch",
-    "description4": "Besonderheit: Ein nordafrikanisches Land mit weitläufigen Wüsten.",
-    "description5": "Spaßfakt: Libyen besitzt einige der größten Sanddünen der Welt.",
-    "imagePath": "assets/photos/LY.jpg",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist typisch für die Wüsten Libyens?",
-          "options": [
-            "assets/photos/camel.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/wolf.jpg",
-            "assets/photos/fox.jpg"
-          ],
-          "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
     }
@@ -3306,31 +1897,6 @@
     }
   },
   {
-    "id": "MG",
-    "title": "🇲🇬 Madagaskar 🇲🇬",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Antananarivo",
-    "description3": "Sprachen: Malagasy, Französisch",
-    "description4": "Besonderheit: Eine riesige Insel mit einzigartiger Flora und Fauna.",
-    "description5": "Spaßfakt: Rund 90% der Tierarten kommen nirgendwo sonst vor.",
-    "imagePath": "assets/photos/MG.jpg",
-    "youtubeVideoId": "sLiY72Fdz_M",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist typisch für Madagaskar?",
-          "options": [
-            "assets/photos/lemur.jpg",
-            "assets/photos/kangaroo.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/wolf.jpg"
-          ],
-          "correctAnswer": "assets/photos/lemur.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "MW",
     "title": "🇲🇼 Malawi 🇲🇼",
     "description1": "Kontinent: Afrika",
@@ -3379,30 +1945,6 @@
     }
   },
   {
-    "id": "ML",
-    "title": "🇲🇱 Mali 🇲🇱",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Bamako",
-    "description3": "Sprache: Französisch, Bambara",
-    "description4": "Besonderheit: Ein westafrikanischer Staat mit antiker Geschichte.",
-    "description5": "Spaßfakt: Mali ist bekannt für seine Musiktraditionen.",
-    "imagePath": "assets/photos/ML.jpg",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier findet man in den malischen Savannen?",
-          "options": [
-            "assets/photos/lion.jpg",
-            "assets/photos/elephant.jpg",
-            "assets/photos/zebra.jpg",
-            "assets/photos/giraffe.jpg"
-          ],
-          "correctAnswer": "assets/photos/lion.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "MT",
     "title": "🇲🇹 Malta 🇲🇹",
     "description1": "Kontinent: Europa",
@@ -3446,30 +1988,6 @@
             "assets/photos/seagull.jpg"
           ],
           "correctAnswer": "assets/photos/turtle.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "MR",
-    "title": "🇲🇷 Mauretanien 🇲🇷",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Nouakchott",
-    "description3": "Sprache: Arabisch, Französisch",
-    "description4": "Besonderheit: Ein nordwestafrikanischer Staat, überwiegend von Wüste bedeckt.",
-    "description5": "Spaßfakt: Mauretanien bietet eine faszinierende Mischung aus Kulturen.",
-    "imagePath": "assets/photos/MR.jpg",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist in den Wüsten Mauretaniens typisch?",
-          "options": [
-            "assets/photos/camel.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/wolf.jpg",
-            "assets/photos/fox.jpg"
-          ],
-          "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
     }
@@ -3574,31 +2092,6 @@
     }
   },
   {
-    "id": "MN",
-    "title": "🇲🇳 Mongolei 🇲🇳",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Ulaanbaatar",
-    "description3": "Sprache: Mongolisch",
-    "description4": "Besonderheit: Ein Land der weiten Steppen und Nomaden.",
-    "description5": "Spaßfakt: Die Mongolei ist berühmt für ihre Pferdekultur.",
-    "imagePath": "assets/photos/MN.jpg",
-    "youtubeVideoId": "x9yZBFbLW54",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier symbolisiert die mongolische Steppe?",
-          "options": [
-            "assets/photos/horse.jpg",
-            "assets/photos/camel.jpg",
-            "assets/photos/goat.jpg",
-            "assets/photos/wolf.jpg"
-          ],
-          "correctAnswer": "assets/photos/horse.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "ME",
     "title": "🇲🇪 Montenegro 🇲🇪",
     "description1": "Kontinent: Europa",
@@ -3618,80 +2111,6 @@
             "assets/photos/eagle.jpg"
           ],
           "correctAnswer": "assets/photos/goat.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "MZ",
-    "title": "🇲🇿 Mosambik 🇲🇿",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Maputo",
-    "description3": "Sprache: Portugiesisch",
-    "description4": "Besonderheit: Ein ostafrikanischer Staat mit langer Küste.",
-    "description5": "Spaßfakt: Mosambik ist berühmt für seine Strände und Korallenriffe.",
-    "imagePath": "assets/photos/MZ.jpg",
-    "youtubeVideoId": "FGpSE536HNM",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist typisch für mosambikanische Küsten?",
-          "options": [
-            "assets/photos/seagull.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/camel.jpg",
-            "assets/photos/wolf.jpg"
-          ],
-          "correctAnswer": "assets/photos/seagull.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "MM",
-    "title": "🇲🇲 Myanmar 🇲🇲",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Naypyidaw",
-    "description3": "Sprache: Birmanisch",
-    "description4": "Besonderheit: Ein Land mit antiken Tempeln und vielfältiger Kultur.",
-    "description5": "Spaßfakt: Myanmar ist bekannt für goldene Pagoden.",
-    "imagePath": "assets/photos/MM.jpg",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier findet man in den Wäldern Myanmars?",
-          "options": [
-            "assets/photos/tiger.jpg",
-            "assets/photos/elephant.jpg",
-            "assets/photos/monkey.jpg",
-            "assets/photos/bear.jpg"
-          ],
-          "correctAnswer": "assets/photos/tiger.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "NA",
-    "title": "🇳🇦 Namibia 🇳🇦",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Windhoek",
-    "description3": "Sprache: Englisch",
-    "description4": "Besonderheit: Ein Land mit beeindruckenden Wüstenlandschaften.",
-    "description5": "Spaßfakt: Die Namib-Wüste zählt zu den ältesten der Welt.",
-    "imagePath": "assets/photos/NA.jpg",
-    "youtubeVideoId": "xoR0IzdauWU&t=1s",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist typisch für die Wüsten Namibias?",
-          "options": [
-            "assets/photos/camel.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/elephant.jpg",
-            "assets/photos/deer.jpg"
-          ],
-          "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
     }
@@ -3765,56 +2184,6 @@
             "assets/photos/eagle.jpg"
           ],
           "correctAnswer": "assets/photos/lizard.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "NE",
-    "title": "🇳🇪 Niger 🇳🇪",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Niamey",
-    "description3": "Sprache: Französisch, Hausa",
-    "description4": "Besonderheit: Ein großes Wüstenland in Westafrika.",
-    "description5": "Spaßfakt: Der Niger ist bekannt für endlose Sanddünen.",
-    "imagePath": "assets/photos/NE.jpg",
-    "youtubeVideoId": "pT8-NS6UhZc",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist typisch für die Wüsten des Nigers?",
-          "options": [
-            "assets/photos/camel.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/bear.jpg",
-            "assets/photos/wolf.jpg"
-          ],
-          "correctAnswer": "assets/photos/camel.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "NG",
-    "title": "🇳🇬 Nigeria 🇳🇬",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Abuja",
-    "description3": "Sprache: Englisch",
-    "description4": "Besonderheit: Ein bevölkerungsreicher Staat in Westafrika.",
-    "description5": "Spaßfakt: Nigeria ist berühmt für seine Afrobeat-Musik.",
-    "imagePath": "assets/photos/NG.jpg",
-    "youtubeVideoId": "0BUKC94x2UY",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist in den nigerianischen Savannen heimisch?",
-          "options": [
-            "assets/photos/elephant.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/zebra.jpg",
-            "assets/photos/giraffe.jpg"
-          ],
-          "correctAnswer": "assets/photos/lion.jpg"
         }
       ]
     }
@@ -3941,31 +2310,6 @@
     }
   },
   {
-    "id": "PG",
-    "title": "🇵🇬 Papua-Neuguinea 🇵🇬",
-    "description1": "Kontinent: Ozeanien",
-    "description2": "Hauptstadt: Port Moresby",
-    "description3": "Sprachen: Englisch, Tok Pisin, Hiri Motu",
-    "description4": "Besonderheit: Ein Land mit unglaublicher kultureller Vielfalt.",
-    "description5": "Spaßfakt: Papua-Neuguinea hat über 800 indigene Sprachen.",
-    "imagePath": "assets/photos/PG.jpg",
-    "youtubeVideoId": "RRCRAIJpUmI",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist in den Regenwäldern Papua-Neuguineas heimisch?",
-          "options": [
-            "assets/photos/bird-of-paradise.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/camel.jpg",
-            "assets/photos/koala.jpg"
-          ],
-          "correctAnswer": "assets/photos/bird-of-paradise.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "PY",
     "title": "🇵🇾 Paraguay 🇵🇾",
     "description1": "Kontinent: Südamerika",
@@ -3985,56 +2329,6 @@
             "assets/photos/parrot.jpg"
           ],
           "correctAnswer": "assets/photos/jaguar.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "PE",
-    "title": "🇵🇪 Peru 🇵🇪",
-    "description1": "Kontinent: Südamerika",
-    "description2": "Hauptstadt: Lima",
-    "description3": "Sprachen: Spanisch, Quechua, Aymara",
-    "description4": "Besonderheit: Ein Land der Inkas mit beeindruckenden Anden.",
-    "description5": "Spaßfakt: Peru ist berühmt für Machu Picchu.",
-    "imagePath": "assets/photos/PE.jpg",
-    "youtubeVideoId": "rCJf-qIEBBU",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist in den peruanischen Anden heimisch?",
-          "options": [
-            "assets/photos/llama.jpg",
-            "assets/photos/camel.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/wolf.jpg"
-          ],
-          "correctAnswer": "assets/photos/llama.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "PH",
-    "title": "🇵🇭 Philippinen 🇵🇭",
-    "description1": "Kontinent: Asien",
-    "description2": "Hauptstadt: Manila",
-    "description3": "Sprachen: Filipino, Englisch",
-    "description4": "Besonderheit: Ein Inselstaat mit tausenden Inseln.",
-    "description5": "Spaßfakt: Die Philippinen sind bekannt für bunte Festivals.",
-    "imagePath": "assets/photos/PH.jpg",
-    "youtubeVideoId": "SAKW2fVespE",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier findet man in den Regenwäldern der Philippinen?",
-          "options": [
-            "assets/photos/monkey.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/camel.jpg",
-            "assets/photos/koala.jpg"
-          ],
-          "correctAnswer": "assets/photos/monkey.jpg"
         }
       ]
     }
@@ -4330,54 +2624,6 @@
     }
   },
   {
-    "id": "SO",
-    "title": "🇸🇴 Somalia 🇸🇴",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Mogadischu",
-    "description3": "Sprache: Somali, Arabisch",
-    "description4": "Besonderheit: Ein Staat am Indischen Ozean mit langer Küste.",
-    "description5": "Spaßfakt: Somalia hat eine reiche Tradition in Poesie.",
-    "imagePath": "assets/photos/SO.jpg",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist typisch für die somalische Steppe?",
-          "options": [
-            "assets/photos/camel.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/deer.jpg",
-            "assets/photos/eagle.jpg"
-          ],
-          "correctAnswer": "assets/photos/camel.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "SS",
-    "title": "🇸🇸 Südsudan 🇸🇸",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Juba",
-    "description3": "Sprachen: Englisch, Arabisch",
-    "description4": "Besonderheit: Der jüngste Staat Afrikas mit unberührter Natur.",
-    "description5": "Spaßfakt: Südsudan hat enormes Potenzial im Wildtiertourismus.",
-    "imagePath": "assets/photos/SS.jpg",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier findet man in den Savannen des Südsudans?",
-          "options": [
-            "assets/photos/elephant.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/zebra.jpg",
-            "assets/photos/giraffe.jpg"
-          ],
-          "correctAnswer": "assets/photos/lion.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "LK",
     "title": "🇱🇰 Sri Lanka 🇱🇰",
     "description1": "Kontinent: Asien",
@@ -4398,30 +2644,6 @@
             "assets/photos/bear.jpg"
           ],
           "correctAnswer": "assets/photos/elephant.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "SD",
-    "title": "🇸🇩 Sudan 🇸🇩",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Khartum",
-    "description3": "Sprache: Arabisch, Englisch",
-    "description4": "Besonderheit: Ein Land im nordöstlichen Afrika mit antiken Stätten.",
-    "description5": "Spaßfakt: Sudan besitzt beeindruckende archäologische Relikte.",
-    "imagePath": "assets/photos/SD.jpg",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier findet man in den Wüsten Sudans?",
-          "options": [
-            "assets/photos/camel.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/wolf.jpg",
-            "assets/photos/fox.jpg"
-          ],
-          "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
     }
@@ -4470,31 +2692,6 @@
             "assets/photos/camel.jpg"
           ],
           "correctAnswer": "assets/photos/goat.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "TZ",
-    "title": "🇹🇿 Tansania 🇹🇿",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Dodoma",
-    "description3": "Sprachen: Swahili, Englisch",
-    "description4": "Besonderheit: Ein ostafrikanischer Staat, bekannt für Safari-Nationalparks.",
-    "description5": "Spaßfakt: Tansania beherbergt den Kilimandscharo, den höchsten Berg Afrikas.",
-    "imagePath": "assets/photos/TZ.jpg",
-    "youtubeVideoId": "KNayRmdnmdQ",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist ein Symbol für tansanische Safaris?",
-          "options": [
-            "assets/photos/elephant.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/giraffe.jpg",
-            "assets/photos/zebra.jpg"
-          ],
-          "correctAnswer": "assets/photos/lion.jpg"
         }
       ]
     }
@@ -4768,31 +2965,6 @@
     }
   },
   {
-    "id": "VE",
-    "title": "🇻🇪 Venezuela 🇻🇪",
-    "description1": "Kontinent: Südamerika",
-    "description2": "Hauptstadt: Caracas",
-    "description3": "Sprache: Spanisch",
-    "description4": "Besonderheit: Ein Land reich an natürlichen Ressourcen.",
-    "description5": "Spaßfakt: Venezuela beherbergt den Salto Ángel, den höchsten Wasserfall der Welt.",
-    "imagePath": "assets/photos/VE.jpg",
-    "youtubeVideoId": "KvSBoJn-xnY",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist in den venezolanischen Regenwäldern heimisch?",
-          "options": [
-            "assets/photos/jaguar.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/koala.jpg",
-            "assets/photos/camel.jpg"
-          ],
-          "correctAnswer": "assets/photos/jaguar.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "YE",
     "title": "🇾🇪 Jemen 🇾🇪",
     "description1": "Kontinent: Asien",
@@ -4812,30 +2984,6 @@
             "assets/photos/lion.jpg"
           ],
           "correctAnswer": "assets/photos/camel.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "ZM",
-    "title": "🇿🇲 Sambia 🇿🇲",
-    "description1": "Kontinent: Afrika",
-    "description2": "Hauptstadt: Lusaka",
-    "description3": "Sprache: Englisch",
-    "description4": "Besonderheit: Ein südafrikanischer Staat mit reicher Tierwelt.",
-    "description5": "Spaßfakt: Sambia ist bekannt für die Victoriafälle.",
-    "imagePath": "assets/photos/ZM.jpg",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier findet man in sambischen Savannen?",
-          "options": [
-            "assets/photos/elephant.jpg",
-            "assets/photos/lion.jpg",
-            "assets/photos/zebra.jpg",
-            "assets/photos/giraffe.jpg"
-          ],
-          "correctAnswer": "assets/photos/elephant.jpg"
         }
       ]
     }
@@ -4863,156 +3011,5 @@
         }
       ]
     }
-  },
-  
-
-  {
-    "id": "GF",
-    "title": "🇬🇫 Französisch-Guayana 🇬🇫",
-    "description1": "Kontinent: Südamerika",
-    "description2": "Hauptstadt: Cayenne",
-    "description3": "Sprache: Französisch",
-    "description4": "Besonderheit: Ein Übersee-Département Frankreichs mit tropischem Klima und üppigen Regenwäldern.",
-    "description5": "Spaßfakt: Über 95% des Regenwaldes sind unberührt.",
-    "imagePath": "assets/photos/GF.jpg",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist typisch für die tropischen Regenwälder Französisch-Guayanas?",
-          "options": [
-            "assets/photos/jaguar.jpg",
-            "assets/photos/parrot.jpg",
-            "assets/photos/monkey.jpg",
-            "assets/photos/sloth.jpg"
-          ],
-          "correctAnswer": "assets/photos/jaguar.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "GL",
-    "title": "🇬🇱 Grönland 🇬🇱",
-    "description1": "Kontinent: Nordamerika (Arktis)",
-    "description2": "Hauptstadt: Nuuk",
-    "description3": "Sprachen: Grönländisch, Dänisch",
-    "description4": "Besonderheit: Die größte Insel der Welt, überwiegend von Eis bedeckt.",
-    "description5": "Spaßfakt: Grönland besitzt mehr Eisfläche als Landfläche.",
-    "imagePath": "assets/photos/GL.jpg",
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist ein Symbol der arktischen Regionen Grönlands?",
-          "options": [
-            "assets/photos/polar_bear.jpg",
-            "assets/photos/seal.jpg",
-            "assets/photos/wolf.jpg",
-            "assets/photos/fox.jpg"
-          ],
-          "correctAnswer": "assets/photos/polar_bear.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "XHI",
-    "title": "🏝️ Hawaii 🏝️",
-    "description1": "Kontinent: Nordamerika (Pazifik)",
-    "description2": "Hauptstadt: Honolulu",
-    "description3": "Sprache: Englisch",
-    "description4": "Besonderheit: Ein Inselparadies mit aktiven Vulkanen und traumhaften Stränden.",
-    "description5": "Spaßfakt: Hawaii besitzt einzigartige Vulkane, die immer noch aktiv sind.",
-    "imagePath": "assets/photos/XHI.jpg",
-
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welcher dieser Vögel lebt auf Hawaii?",
-          "options": [
-            "assets/photos/hawaiian_goose.jpg",
-            "assets/photos/penguin.jpg",
-            "assets/photos/ostrich.jpg",
-            "assets/photos/flamingo.jpg"
-          ],
-          "correctAnswer": "assets/photos/hawaiian_goose.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "XFA",
-    "title": "🇫🇷 Franz. Süd- und Antarktisgebiete 🇫🇷",
-    "description1": "Kontinent: Antarktis/Südpol",
-    "description2": "Hauptstadt: Keine feste Hauptstadt",
-    "description3": "Sprache: Französisch",
-    "description4": "Besonderheit: Ein französisches Überseegebiet in der Antarktis und Subantarktis.",
-    "description5": "Spaßfakt: Hier gibt es einzigartige Forschungsstationen und seltene Tierarten.",
-    "imagePath": "assets/photos/XFA.jpg",
-
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier ist typisch für antarktische Regionen?",
-          "options": [
-            "assets/photos/penguin.jpg",
-            "assets/photos/seal.jpg",
-            "assets/photos/polar_bear.jpg",
-            "assets/photos/whale.jpg"
-          ],
-          "correctAnswer": "assets/photos/penguin.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "XSA",
-    "title": "🇬🇧 Sandwichinseln 🇬🇧",
-    "description1": "Kontinent: Antarktis/Südpol",
-    "description2": "Hauptstadt: Keine",
-    "description3": "Sprache: International",
-    "description4": "Besonderheit: Ein abgelegenes, unbewohntes Inselgebiet im Südatlantik mit vulkanischem Ursprung.",
-    "description5": "Spaßfakt: Die Inseln sind vulkanisch aktiv und extrem isoliert.",
-    "imagePath": "assets/photos/XSA.jpg",
-
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier findet man in den kalten Gewässern der Sandwichinseln?",
-          "options": [
-            "assets/photos/penguin.jpg",
-            "assets/photos/seal.jpg",
-            "assets/photos/whale.jpg",
-            "assets/photos/dolphin.jpg"
-          ],
-          "correctAnswer": "assets/photos/penguin.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "XAK",
-    "title": "🇺🇸 Alaska 🇺🇸",
-    "description1": "Kontinent: Nordamerika",
-    "description2": "Hauptstadt: Juneau",
-    "description3": "Sprache: Englisch",
-    "description4": "Besonderheit: Der größte US-Bundesstaat, bekannt für seine Wildnis und Gletscher.",
-    "description5": "Spaßfakt: Alaska beheimatet über 3.000 Gletscher.",
-    "imagePath": "assets/photos/XAK.jpg",
-
-    "quiz": {
-      "questions": [
-        {
-          "question": "Welches Tier symbolisiert die Wildnis Alaskas?",
-          "options": [
-            "assets/photos/bear.jpg",
-            "assets/photos/moose.jpg",
-            "assets/photos/wolf.jpg",
-            "assets/photos/eagle.jpg"
-          ],
-          "correctAnswer": "assets/photos/bear.jpg"
-        }
-      ]
-    }
   }
-  
 ]
