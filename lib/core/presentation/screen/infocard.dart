@@ -67,7 +67,7 @@ class InfoCard extends StatelessWidget {
                       isScrollControlled: true,
                       builder: (_) {
                         return YouTubeBottomSheet(
-                          youtubeVideoId: youtubeVideoId,
+                          youtubeVideoId: youtubeVideoId ?? "",
                         );
                       },
                     );
@@ -96,14 +96,34 @@ class YouTubeBottomSheet extends StatefulWidget {
 class _YouTubeBottomSheetState extends State<YouTubeBottomSheet> {
   late final YoutubePlayerController _controller;
 
+  /// Extracts the YouTube video ID, removing "&t=" if present
+  String extractVideoId(String url) {
+    return url.contains("&t=") ? url.split("&t=")[0] : url;
+  }
+
+  /// Extracts the start time (if "&t=" exists), otherwise returns 0
+  int extractStartTime(String url) {
+    if (url.contains("&t=")) {
+      try {
+        return int.parse(url.split("&t=")[1]); // Extracts number after "&t="
+      } catch (e) {
+        return 0; // If parsing fails, default to 0 seconds
+      }
+    }
+    return 0;
+  }
+
   @override
   void initState() {
     super.initState();
 
     _controller = YoutubePlayerController.fromVideoId(
-      videoId: widget.youtubeVideoId,
-      autoPlay: false,
-      params: YoutubePlayerParams(showFullscreenButton: true),
+      videoId: extractVideoId(widget.youtubeVideoId),  // Extract clean video ID
+      autoPlay: true,
+      startSeconds: extractStartTime(widget.youtubeVideoId).toDouble(),
+      params: YoutubePlayerParams(
+        showFullscreenButton: true, // Enable fullscreen
+      ),
     );
   }
 
