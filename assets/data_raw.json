@@ -22,7 +22,9 @@
           "correctAnswer": "assets/photos/moose.jpg"
         }
       ]
-    }
+    },
+    "latitude": 56.130366,
+    "longitude": -106.346771
   },
   {
     "id": "IN",
@@ -47,7 +49,9 @@
           "correctAnswer": "assets/photos/tiger.jpg"
         }
       ]
-    }
+    },
+    "latitude": 20.593684,
+    "longitude": 78.96288
   },
   {
     "id": "ZA",
@@ -72,7 +76,9 @@
           "correctAnswer": "assets/photos/bear.jpg"
         }
       ]
-    }
+    },
+    "latitude": -30.559482,
+    "longitude": 22.937506
   },
   {
     "id": "RU",
@@ -107,7 +113,9 @@
           "correctAnswer": "assets/photos/lada.jpg"
         }
       ]
-    }
+    },
+    "latitude": 61.52401,
+    "longitude": 105.318756
   },
   {
     "id": "JP",
@@ -132,7 +140,9 @@
           "correctAnswer": "assets/photos/deer.jpg"
         }
       ]
-    }
+    },
+    "latitude": 36.204824,
+    "longitude": 138.252924
   },
   {
     "id": "EG",
@@ -157,7 +167,9 @@
           "correctAnswer": "assets/photos/cat.jpg"
         }
       ]
-    }
+    },
+    "latitude": 26.820553,
+    "longitude": 30.802498
   },
   {
     "id": "TR",
@@ -182,7 +194,9 @@
           "correctAnswer": "assets/photos/doner.jpg"
         }
       ]
-    }
+    },
+    "latitude": 38.963745,
+    "longitude": 35.243322
   },
   {
     "id": "SY",
@@ -207,7 +221,9 @@
           "correctAnswer": "assets/photos/falafel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 34.802075,
+    "longitude": 38.996815
   },
   {
     "id": "DE",
@@ -232,7 +248,9 @@
           "correctAnswer": "assets/photos/brandenburg_gate.jpg"
         }
       ]
-    }
+    },
+    "latitude": 51.165691,
+    "longitude": 10.451526
   },
   {
     "id": "BR",
@@ -257,7 +275,9 @@
           "correctAnswer": "assets/photos/jaguar.jpg"
         }
       ]
-    }
+    },
+    "latitude": -14.235004,
+    "longitude": -51.92528
   },
   {
     "id": "CN",
@@ -282,7 +302,9 @@
           "correctAnswer": "assets/photos/panda.jpg"
         }
       ]
-    }
+    },
+    "latitude": 35.86166,
+    "longitude": 104.195397
   },
   {
     "id": "AU",
@@ -307,7 +329,9 @@
           "correctAnswer": "assets/photos/kangaroo.jpg"
         }
       ]
-    }
+    },
+    "latitude": -25.274398,
+    "longitude": 133.775136
   },
   {
     "id": "AF",
@@ -332,7 +356,9 @@
           "correctAnswer": "assets/photos/snow_leopard.jpg"
         }
       ]
-    }
+    },
+    "latitude": 33.93911,
+    "longitude": 67.709953
   },
   {
     "id": "PL",
@@ -357,7 +383,9 @@
           "correctAnswer": "assets/photos/eagle.jpg"
         }
       ]
-    }
+    },
+    "latitude": 51.919438,
+    "longitude": 19.145136
   },
   {
     "id": "RO",
@@ -382,7 +410,9 @@
           "correctAnswer": "assets/photos/bear.jpg"
         }
       ]
-    }
+    },
+    "latitude": 45.943161,
+    "longitude": 24.96676
   },
   {
     "id": "IQ",
@@ -407,7 +437,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 33.223191,
+    "longitude": 43.679291
   },
   {
     "id": "MA",
@@ -432,7 +464,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 31.791702,
+    "longitude": -7.09262
   },
   {
     "id": "FR",
@@ -457,7 +491,9 @@
           "correctAnswer": "assets/photos/baguette.jpg"
         }
       ]
-    }
+    },
+    "latitude": 46.227638,
+    "longitude": 2.213749
   },
   {
     "id": "VN",
@@ -482,7 +518,9 @@
           "correctAnswer": "assets/photos/water_buffalo.jpg"
         }
       ]
-    }
+    },
+    "latitude": 14.058324,
+    "longitude": 108.277199
   },
   {
     "id": "IT",
@@ -507,7 +545,9 @@
           "correctAnswer": "assets/photos/wolf.jpg"
         }
       ]
-    }
+    },
+    "latitude": 41.87194,
+    "longitude": 12.56738
   },
   {
     "id": "US",
@@ -532,7 +572,9 @@
           "correctAnswer": "assets/photos/eagle.jpg"
         }
       ]
-    }
+    },
+    "latitude": 37.09024,
+    "longitude": -95.712891
   },
   {
     "id": "UA",
@@ -557,7 +599,9 @@
           "correctAnswer": "assets/photos/stork.jpg"
         }
       ]
-    }
+    },
+    "latitude": 48.379433,
+    "longitude": 31.16558
   },
   {
     "id": "ARCTIC",
@@ -630,7 +674,9 @@
           "correctAnswer": "assets/photos/eagle.jpg"
         }
       ]
-    }
+    },
+    "latitude": 23.634501,
+    "longitude": -102.552784
   },
   {
     "id": "ES",
@@ -655,7 +701,9 @@
           "correctAnswer": "assets/photos/sagrada_familia.jpg"
         }
       ]
-    }
+    },
+    "latitude": 40.463667,
+    "longitude": -3.74922
   },
   {
     "id": "NZ",
@@ -680,9 +728,10 @@
           "correctAnswer": "assets/photos/kiwi.jpg"
         }
       ]
-    }
+    },
+    "latitude": -40.900557,
+    "longitude": 174.885971
   },
-  
   {
     "id": "GB",
     "title": "🇬🇧 Vereinigtes Königreich 🇬🇧",
@@ -706,7 +755,9 @@
           "correctAnswer": "assets/photos/lion.jpg"
         }
       ]
-    }
+    },
+    "latitude": 55.378051,
+    "longitude": -3.435973
   },
   {
     "id": "NL",
@@ -731,7 +782,9 @@
           "correctAnswer": "assets/photos/tulip.jpg"
         }
       ]
-    }
+    },
+    "latitude": 52.132633,
+    "longitude": 5.291266
   },
   {
     "id": "BE",
@@ -756,7 +809,9 @@
           "correctAnswer": "assets/photos/waffle.jpg"
         }
       ]
-    }
+    },
+    "latitude": 50.503887,
+    "longitude": 4.469936
   },
   {
     "id": "CH",
@@ -781,7 +836,9 @@
           "correctAnswer": "assets/photos/goat.jpg"
         }
       ]
-    }
+    },
+    "latitude": 46.818188,
+    "longitude": 8.227512
   },
   {
     "id": "SE",
@@ -806,7 +863,9 @@
           "correctAnswer": "assets/photos/moose.jpg"
         }
       ]
-    }
+    },
+    "latitude": 60.128161,
+    "longitude": 18.643501
   },
   {
     "id": "NO",
@@ -831,7 +890,9 @@
           "correctAnswer": "assets/photos/reindeer.jpg"
         }
       ]
-    }
+    },
+    "latitude": 60.472024,
+    "longitude": 8.468946
   },
   {
     "id": "DK",
@@ -856,7 +917,9 @@
           "correctAnswer": "assets/photos/mermaid.jpg"
         }
       ]
-    }
+    },
+    "latitude": 56.26392,
+    "longitude": 9.501785
   },
   {
     "id": "FI",
@@ -881,7 +944,9 @@
           "correctAnswer": "assets/photos/bear.jpg"
         }
       ]
-    }
+    },
+    "latitude": 61.92411,
+    "longitude": 25.748151
   },
   {
     "id": "IE",
@@ -905,9 +970,10 @@
           ],
           "correctAnswer": "assets/photos/irish-stew.jpg"
         }
-        
       ]
-    }
+    },
+    "latitude": 53.41291,
+    "longitude": -8.24389
   },
   {
     "id": "AT",
@@ -930,9 +996,11 @@
             "assets/photos/WienCastle.jpg"
           ],
           "correctAnswer": "assets/photos/WienCastle.jpg"
-        }        
+        }
       ]
-    }
+    },
+    "latitude": 47.516231,
+    "longitude": 14.550072
   },
   {
     "id": "HU",
@@ -957,7 +1025,9 @@
           "correctAnswer": "assets/photos/goulash.jpg"
         }
       ]
-    }
+    },
+    "latitude": 47.162494,
+    "longitude": 19.503304
   },
   {
     "id": "CZ",
@@ -982,7 +1052,9 @@
           "correctAnswer": "assets/photos/PragCastle.jpg"
         }
       ]
-    }
+    },
+    "latitude": 49.817492,
+    "longitude": 15.472962
   },
   {
     "id": "SK",
@@ -1007,7 +1079,9 @@
           "correctAnswer": "assets/photos/deer.jpg"
         }
       ]
-    }
+    },
+    "latitude": 48.669026,
+    "longitude": 19.699024
   },
   {
     "id": "SI",
@@ -1032,7 +1106,9 @@
           "correctAnswer": "assets/photos/bear.jpg"
         }
       ]
-    }
+    },
+    "latitude": 46.151241,
+    "longitude": 14.995463
   },
   {
     "id": "HR",
@@ -1057,7 +1133,9 @@
           "correctAnswer": "assets/photos/ship.jpg"
         }
       ]
-    }
+    },
+    "latitude": 45.1,
+    "longitude": 15.2
   },
   {
     "id": "RS",
@@ -1082,7 +1160,9 @@
           "correctAnswer": "assets/photos/eagle.jpg"
         }
       ]
-    }
+    },
+    "latitude": 44.016521,
+    "longitude": 21.005859
   },
   {
     "id": "BG",
@@ -1107,7 +1187,9 @@
           "correctAnswer": "assets/photos/lion.jpg"
         }
       ]
-    }
+    },
+    "latitude": 42.733883,
+    "longitude": 25.48583
   },
   {
     "id": "GR",
@@ -1132,7 +1214,9 @@
           "correctAnswer": "assets/photos/olive.jpg"
         }
       ]
-    }
+    },
+    "latitude": 39.074208,
+    "longitude": 21.824312
   },
   {
     "id": "PT",
@@ -1157,7 +1241,9 @@
           "correctAnswer": "assets/photos/fish.jpg"
         }
       ]
-    }
+    },
+    "latitude": 39.399872,
+    "longitude": -8.224454
   },
   {
     "id": "SA",
@@ -1182,7 +1268,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 23.885942,
+    "longitude": 45.079162
   },
   {
     "id": "AE",
@@ -1207,7 +1295,9 @@
           "correctAnswer": "assets/photos/burjKhalifa.jpg"
         }
       ]
-    }
+    },
+    "latitude": 23.424076,
+    "longitude": 53.847818
   },
   {
     "id": "KR",
@@ -1232,7 +1322,9 @@
           "correctAnswer": "assets/photos/tiger.jpg"
         }
       ]
-    }
+    },
+    "latitude": 35.907757,
+    "longitude": 127.766922
   },
   {
     "id": "IL",
@@ -1257,7 +1349,9 @@
           "correctAnswer": "assets/photos/lion.jpg"
         }
       ]
-    }
+    },
+    "latitude": 31.046051,
+    "longitude": 34.851612
   },
   {
     "id": "PK",
@@ -1282,7 +1376,9 @@
           "correctAnswer": "assets/photos/snow_leopard.jpg"
         }
       ]
-    }
+    },
+    "latitude": 30.375321,
+    "longitude": 69.345116
   },
   {
     "id": "BD",
@@ -1307,7 +1403,9 @@
           "correctAnswer": "assets/photos/tiger.jpg"
         }
       ]
-    }
+    },
+    "latitude": 23.684994,
+    "longitude": 90.356331
   },
   {
     "id": "ID",
@@ -1332,7 +1430,9 @@
           "correctAnswer": "assets/photos/orangutan.jpg"
         }
       ]
-    }
+    },
+    "latitude": -0.789275,
+    "longitude": 113.921327
   },
   {
     "id": "MY",
@@ -1357,7 +1457,9 @@
           "correctAnswer": "assets/photos/tiger.jpg"
         }
       ]
-    }
+    },
+    "latitude": 4.210484,
+    "longitude": 101.975766
   },
   {
     "id": "SG",
@@ -1382,7 +1484,9 @@
           "correctAnswer": "assets/photos/lion.jpg"
         }
       ]
-    }
+    },
+    "latitude": 1.352083,
+    "longitude": 103.819836
   },
   {
     "id": "TH",
@@ -1407,7 +1511,9 @@
           "correctAnswer": "assets/photos/elephant.jpg"
         }
       ]
-    }
+    },
+    "latitude": 15.870032,
+    "longitude": 100.992541
   },
   {
     "id": "AL",
@@ -1422,17 +1528,19 @@
     "quiz": {
       "questions": [
         {
-            "question": "Welches Tier ist ein Symbol für Albanien?",
-            "options": [
-              "assets/photos/eagle.jpg",
-              "assets/photos/wolf.jpg",
-              "assets/photos/bear.jpg",
-              "assets/photos/fox.jpg"
-            ],
-            "correctAnswer": "assets/photos/eagle.jpg"
+          "question": "Welches Tier ist ein Symbol für Albanien?",
+          "options": [
+            "assets/photos/eagle.jpg",
+            "assets/photos/wolf.jpg",
+            "assets/photos/bear.jpg",
+            "assets/photos/fox.jpg"
+          ],
+          "correctAnswer": "assets/photos/eagle.jpg"
         }
       ]
-    }
+    },
+    "latitude": 41.153332,
+    "longitude": 20.168331
   },
   {
     "id": "DZ",
@@ -1457,7 +1565,9 @@
           "correctAnswer": "assets/photos/desert.jpg"
         }
       ]
-    }
+    },
+    "latitude": 28.033886,
+    "longitude": 1.659626
   },
   {
     "id": "AD",
@@ -1482,7 +1592,9 @@
           "correctAnswer": "assets/photos/ibex.jpg"
         }
       ]
-    }
+    },
+    "latitude": 42.546245,
+    "longitude": 1.601554
   },
   {
     "id": "AO",
@@ -1507,7 +1619,9 @@
           "correctAnswer": "assets/photos/elephant.jpg"
         }
       ]
-    }
+    },
+    "latitude": -11.202692,
+    "longitude": 17.873887
   },
   {
     "id": "AG",
@@ -1532,7 +1646,9 @@
           "correctAnswer": "assets/photos/turtle.jpg"
         }
       ]
-    }
+    },
+    "latitude": 17.060816,
+    "longitude": -61.796428
   },
   {
     "id": "AR",
@@ -1557,7 +1673,9 @@
           "correctAnswer": "assets/photos/condor.jpg"
         }
       ]
-    }
+    },
+    "latitude": -38.416097,
+    "longitude": -63.616672
   },
   {
     "id": "AM",
@@ -1582,7 +1700,9 @@
           "correctAnswer": "assets/photos/leopard.jpg"
         }
       ]
-    }
+    },
+    "latitude": 40.069099,
+    "longitude": 45.038189
   },
   {
     "id": "AZ",
@@ -1607,7 +1727,9 @@
           "correctAnswer": "assets/photos/wolf.jpg"
         }
       ]
-    }
+    },
+    "latitude": 40.143105,
+    "longitude": 47.576927
   },
   {
     "id": "BS",
@@ -1632,7 +1754,9 @@
           "correctAnswer": "assets/photos/dolphin.jpg"
         }
       ]
-    }
+    },
+    "latitude": 25.03428,
+    "longitude": -77.39628
   },
   {
     "id": "BH",
@@ -1657,7 +1781,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 25.930414,
+    "longitude": 50.637772
   },
   {
     "id": "BB",
@@ -1682,7 +1808,9 @@
           "correctAnswer": "assets/photos/parrot.jpg"
         }
       ]
-    }
+    },
+    "latitude": 13.193887,
+    "longitude": -59.543198
   },
   {
     "id": "BY",
@@ -1707,7 +1835,9 @@
           "correctAnswer": "assets/photos/deer.jpg"
         }
       ]
-    }
+    },
+    "latitude": 53.709807,
+    "longitude": 27.953389
   },
   {
     "id": "BZ",
@@ -1732,7 +1862,9 @@
           "correctAnswer": "assets/photos/monkey.jpg"
         }
       ]
-    }
+    },
+    "latitude": 17.189877,
+    "longitude": -88.49765
   },
   {
     "id": "BJ",
@@ -1757,7 +1889,9 @@
           "correctAnswer": "assets/photos/lion.jpg"
         }
       ]
-    }
+    },
+    "latitude": 9.30769,
+    "longitude": 2.315834
   },
   {
     "id": "BT",
@@ -1782,7 +1916,9 @@
           "correctAnswer": "assets/photos/takin.jpg"
         }
       ]
-    }
+    },
+    "latitude": 27.514162,
+    "longitude": 90.433601
   },
   {
     "id": "BO",
@@ -1807,7 +1943,9 @@
           "correctAnswer": "assets/photos/llama.jpg"
         }
       ]
-    }
+    },
+    "latitude": -16.290154,
+    "longitude": -63.588653
   },
   {
     "id": "BA",
@@ -1832,7 +1970,9 @@
           "correctAnswer": "assets/photos/wolf.jpg"
         }
       ]
-    }
+    },
+    "latitude": 43.915886,
+    "longitude": 17.679076
   },
   {
     "id": "BW",
@@ -1857,7 +1997,9 @@
           "correctAnswer": "assets/photos/elephant.jpg"
         }
       ]
-    }
+    },
+    "latitude": -22.328474,
+    "longitude": 24.684866
   },
   {
     "id": "BN",
@@ -1882,7 +2024,9 @@
           "correctAnswer": "assets/photos/orangutan.jpg"
         }
       ]
-    }
+    },
+    "latitude": 4.535277,
+    "longitude": 114.727669
   },
   {
     "id": "BF",
@@ -1907,7 +2051,9 @@
           "correctAnswer": "assets/photos/lion.jpg"
         }
       ]
-    }
+    },
+    "latitude": 12.238333,
+    "longitude": -1.561593
   },
   {
     "id": "BI",
@@ -1932,7 +2078,9 @@
           "correctAnswer": "assets/photos/goat.jpg"
         }
       ]
-    }
+    },
+    "latitude": -3.373056,
+    "longitude": 29.918886
   },
   {
     "id": "CV",
@@ -1957,7 +2105,9 @@
           "correctAnswer": "assets/photos/seagull.jpg"
         }
       ]
-    }
+    },
+    "latitude": 16.002082,
+    "longitude": -24.013197
   },
   {
     "id": "KH",
@@ -1982,7 +2132,9 @@
           "correctAnswer": "assets/photos/tiger.jpg"
         }
       ]
-    }
+    },
+    "latitude": 12.565679,
+    "longitude": 104.990963
   },
   {
     "id": "CM",
@@ -2007,7 +2159,9 @@
           "correctAnswer": "assets/photos/gorilla.jpg"
         }
       ]
-    }
+    },
+    "latitude": 7.369722,
+    "longitude": 12.354722
   },
   {
     "id": "CF",
@@ -2032,7 +2186,9 @@
           "correctAnswer": "assets/photos/lion.jpg"
         }
       ]
-    }
+    },
+    "latitude": 6.611111,
+    "longitude": 20.939444
   },
   {
     "id": "TD",
@@ -2057,7 +2213,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 15.454166,
+    "longitude": 18.732207
   },
   {
     "id": "CL",
@@ -2082,7 +2240,9 @@
           "correctAnswer": "assets/photos/llama.jpg"
         }
       ]
-    }
+    },
+    "latitude": -35.675147,
+    "longitude": -71.542969
   },
   {
     "id": "CO",
@@ -2107,7 +2267,9 @@
           "correctAnswer": "assets/photos/jaguar.jpg"
         }
       ]
-    }
+    },
+    "latitude": 4.570868,
+    "longitude": -74.297333
   },
   {
     "id": "KM",
@@ -2132,7 +2294,9 @@
           "correctAnswer": "assets/photos/parrot.jpg"
         }
       ]
-    }
+    },
+    "latitude": -11.875001,
+    "longitude": 43.872219
   },
   {
     "id": "CG",
@@ -2157,7 +2321,9 @@
           "correctAnswer": "assets/photos/gorilla.jpg"
         }
       ]
-    }
+    },
+    "latitude": -0.228021,
+    "longitude": 15.827659
   },
   {
     "id": "CD",
@@ -2182,7 +2348,9 @@
           "correctAnswer": "assets/photos/gorilla.jpg"
         }
       ]
-    }
+    },
+    "latitude": -4.038333,
+    "longitude": 21.758664
   },
   {
     "id": "CR",
@@ -2207,7 +2375,9 @@
           "correctAnswer": "assets/photos/monkey.jpg"
         }
       ]
-    }
+    },
+    "latitude": 9.748917,
+    "longitude": -83.753428
   },
   {
     "id": "CU",
@@ -2232,7 +2402,9 @@
           "correctAnswer": "assets/photos/toucan.jpg"
         }
       ]
-    }
+    },
+    "latitude": 21.521757,
+    "longitude": -77.781167
   },
   {
     "id": "CY",
@@ -2257,7 +2429,9 @@
           "correctAnswer": "assets/photos/lizard.jpg"
         }
       ]
-    }
+    },
+    "latitude": 35.126413,
+    "longitude": 33.429859
   },
   {
     "id": "DJ",
@@ -2282,7 +2456,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 11.825138,
+    "longitude": 42.590275
   },
   {
     "id": "DM",
@@ -2307,7 +2483,9 @@
           "correctAnswer": "assets/photos/parrot.jpg"
         }
       ]
-    }
+    },
+    "latitude": 15.414999,
+    "longitude": -61.370976
   },
   {
     "id": "DO",
@@ -2332,7 +2510,9 @@
           "correctAnswer": "assets/photos/parrot.jpg"
         }
       ]
-    }
+    },
+    "latitude": 18.735693,
+    "longitude": -70.162651
   },
   {
     "id": "TL",
@@ -2357,7 +2537,9 @@
           "correctAnswer": "assets/photos/monkey.jpg"
         }
       ]
-    }
+    },
+    "latitude": -8.874217,
+    "longitude": 125.727539
   },
   {
     "id": "EC",
@@ -2382,7 +2564,9 @@
           "correctAnswer": "assets/photos/tortoise.jpg"
         }
       ]
-    }
+    },
+    "latitude": -1.831239,
+    "longitude": -78.183406
   },
   {
     "id": "SV",
@@ -2407,7 +2591,9 @@
           "correctAnswer": "assets/photos/lizard.jpg"
         }
       ]
-    }
+    },
+    "latitude": 13.794185,
+    "longitude": -88.89653
   },
   {
     "id": "GQ",
@@ -2432,7 +2618,9 @@
           "correctAnswer": "assets/photos/monkey.jpg"
         }
       ]
-    }
+    },
+    "latitude": 1.650801,
+    "longitude": 10.267895
   },
   {
     "id": "ER",
@@ -2457,7 +2645,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 15.179384,
+    "longitude": 39.782334
   },
   {
     "id": "EE",
@@ -2482,7 +2672,9 @@
           "correctAnswer": "assets/photos/deer.jpg"
         }
       ]
-    }
+    },
+    "latitude": 58.595272,
+    "longitude": 25.013607
   },
   {
     "id": "SZ",
@@ -2507,7 +2699,9 @@
           "correctAnswer": "assets/photos/elephant.jpg"
         }
       ]
-    }
+    },
+    "latitude": -26.522503,
+    "longitude": 31.465866
   },
   {
     "id": "ET",
@@ -2532,7 +2726,9 @@
           "correctAnswer": "assets/photos/ibex.jpg"
         }
       ]
-    }
+    },
+    "latitude": 9.145,
+    "longitude": 40.489673
   },
   {
     "id": "FJ",
@@ -2557,7 +2753,9 @@
           "correctAnswer": "assets/photos/turtle.jpg"
         }
       ]
-    }
+    },
+    "latitude": -16.578193,
+    "longitude": 179.414413
   },
   {
     "id": "GA",
@@ -2582,7 +2780,9 @@
           "correctAnswer": "assets/photos/gorilla.jpg"
         }
       ]
-    }
+    },
+    "latitude": -0.803689,
+    "longitude": 11.609444
   },
   {
     "id": "GM",
@@ -2607,7 +2807,9 @@
           "correctAnswer": "assets/photos/crocodile.jpg"
         }
       ]
-    }
+    },
+    "latitude": 13.443182,
+    "longitude": -15.310139
   },
   {
     "id": "GE",
@@ -2632,7 +2834,9 @@
           "correctAnswer": "assets/photos/goat.jpg"
         }
       ]
-    }
+    },
+    "latitude": 42.315407,
+    "longitude": 43.356892
   },
   {
     "id": "GH",
@@ -2657,7 +2861,9 @@
           "correctAnswer": "assets/photos/elephant.jpg"
         }
       ]
-    }
+    },
+    "latitude": 7.946527,
+    "longitude": -1.023194
   },
   {
     "id": "GD",
@@ -2682,7 +2888,9 @@
           "correctAnswer": "assets/photos/parrot.jpg"
         }
       ]
-    }
+    },
+    "latitude": 12.262776,
+    "longitude": -61.604171
   },
   {
     "id": "GT",
@@ -2707,7 +2915,9 @@
           "correctAnswer": "assets/photos/monkey.jpg"
         }
       ]
-    }
+    },
+    "latitude": 15.783471,
+    "longitude": -90.230759
   },
   {
     "id": "GN",
@@ -2732,7 +2942,9 @@
           "correctAnswer": "assets/photos/elephant.jpg"
         }
       ]
-    }
+    },
+    "latitude": 9.945587,
+    "longitude": -9.696645
   },
   {
     "id": "GW",
@@ -2757,7 +2969,9 @@
           "correctAnswer": "assets/photos/seagull.jpg"
         }
       ]
-    }
+    },
+    "latitude": 11.803749,
+    "longitude": -15.180413
   },
   {
     "id": "GY",
@@ -2782,7 +2996,9 @@
           "correctAnswer": "assets/photos/jaguar.jpg"
         }
       ]
-    }
+    },
+    "latitude": 4.860416,
+    "longitude": -58.93018
   },
   {
     "id": "HT",
@@ -2807,7 +3023,9 @@
           "correctAnswer": "assets/photos/parrot.jpg"
         }
       ]
-    }
+    },
+    "latitude": 18.971187,
+    "longitude": -72.285215
   },
   {
     "id": "HN",
@@ -2832,7 +3050,9 @@
           "correctAnswer": "assets/photos/monkey.jpg"
         }
       ]
-    }
+    },
+    "latitude": 15.199999,
+    "longitude": -86.241905
   },
   {
     "id": "IS",
@@ -2857,7 +3077,9 @@
           "correctAnswer": "assets/photos/reindeer.jpg"
         }
       ]
-    }
+    },
+    "latitude": 64.963051,
+    "longitude": -19.020835
   },
   {
     "id": "IR",
@@ -2882,7 +3104,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 32.427908,
+    "longitude": 53.688046
   },
   {
     "id": "JM",
@@ -2907,7 +3131,9 @@
           "correctAnswer": "assets/photos/parrot.jpg"
         }
       ]
-    }
+    },
+    "latitude": 18.109581,
+    "longitude": -77.297508
   },
   {
     "id": "JO",
@@ -2932,7 +3158,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 30.585164,
+    "longitude": 36.238414
   },
   {
     "id": "KZ",
@@ -2957,7 +3185,9 @@
           "correctAnswer": "assets/photos/eagle.jpg"
         }
       ]
-    }
+    },
+    "latitude": 48.019573,
+    "longitude": 66.923684
   },
   {
     "id": "KE",
@@ -2982,7 +3212,9 @@
           "correctAnswer": "assets/photos/lion.jpg"
         }
       ]
-    }
+    },
+    "latitude": -0.023559,
+    "longitude": 37.906193
   },
   {
     "id": "KI",
@@ -3007,7 +3239,9 @@
           "correctAnswer": "assets/photos/turtle.jpg"
         }
       ]
-    }
+    },
+    "latitude": -3.370417,
+    "longitude": -168.734039
   },
   {
     "id": "XK",
@@ -3032,7 +3266,9 @@
           "correctAnswer": "assets/photos/goat.jpg"
         }
       ]
-    }
+    },
+    "latitude": 42.602636,
+    "longitude": 20.902977
   },
   {
     "id": "KW",
@@ -3057,7 +3293,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 29.31166,
+    "longitude": 47.481766
   },
   {
     "id": "KG",
@@ -3082,7 +3320,9 @@
           "correctAnswer": "assets/photos/goat.jpg"
         }
       ]
-    }
+    },
+    "latitude": 41.20438,
+    "longitude": 74.766098
   },
   {
     "id": "LA",
@@ -3107,7 +3347,9 @@
           "correctAnswer": "assets/photos/elephant.jpg"
         }
       ]
-    }
+    },
+    "latitude": 19.85627,
+    "longitude": 102.495496
   },
   {
     "id": "LV",
@@ -3132,7 +3374,9 @@
           "correctAnswer": "assets/photos/deer.jpg"
         }
       ]
-    }
+    },
+    "latitude": 56.879635,
+    "longitude": 24.603189
   },
   {
     "id": "LB",
@@ -3157,7 +3401,9 @@
           "correctAnswer": "assets/photos/eagle.jpg"
         }
       ]
-    }
+    },
+    "latitude": 33.854721,
+    "longitude": 35.862285
   },
   {
     "id": "LS",
@@ -3182,7 +3428,9 @@
           "correctAnswer": "assets/photos/goat.jpg"
         }
       ]
-    }
+    },
+    "latitude": -29.609988,
+    "longitude": 28.233608
   },
   {
     "id": "LR",
@@ -3206,7 +3454,9 @@
           "correctAnswer": "assets/photos/monkey.jpg"
         }
       ]
-    }
+    },
+    "latitude": 6.428055,
+    "longitude": -9.429499
   },
   {
     "id": "LY",
@@ -3230,7 +3480,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 26.3351,
+    "longitude": 17.228331
   },
   {
     "id": "LI",
@@ -3254,7 +3506,9 @@
           "correctAnswer": "assets/photos/goat.jpg"
         }
       ]
-    }
+    },
+    "latitude": 47.166,
+    "longitude": 9.555373
   },
   {
     "id": "LT",
@@ -3278,7 +3532,9 @@
           "correctAnswer": "assets/photos/deer.jpg"
         }
       ]
-    }
+    },
+    "latitude": 55.169438,
+    "longitude": 23.881275
   },
   {
     "id": "LU",
@@ -3303,7 +3559,9 @@
           "correctAnswer": "assets/photos/deer.jpg"
         }
       ]
-    }
+    },
+    "latitude": 49.815273,
+    "longitude": 6.129583
   },
   {
     "id": "MG",
@@ -3328,7 +3586,9 @@
           "correctAnswer": "assets/photos/lemur.jpg"
         }
       ]
-    }
+    },
+    "latitude": -18.766947,
+    "longitude": 46.869107
   },
   {
     "id": "MW",
@@ -3352,7 +3612,9 @@
           "correctAnswer": "assets/photos/hippopotamus.jpg"
         }
       ]
-    }
+    },
+    "latitude": -13.254308,
+    "longitude": 34.301525
   },
   {
     "id": "MV",
@@ -3376,7 +3638,9 @@
           "correctAnswer": "assets/photos/turtle.jpg"
         }
       ]
-    }
+    },
+    "latitude": 3.202778,
+    "longitude": 73.22068
   },
   {
     "id": "ML",
@@ -3400,7 +3664,9 @@
           "correctAnswer": "assets/photos/lion.jpg"
         }
       ]
-    }
+    },
+    "latitude": 17.570692,
+    "longitude": -3.996166
   },
   {
     "id": "MT",
@@ -3424,7 +3690,9 @@
           "correctAnswer": "assets/photos/lizard.jpg"
         }
       ]
-    }
+    },
+    "latitude": 35.937496,
+    "longitude": 14.375416
   },
   {
     "id": "MH",
@@ -3448,7 +3716,9 @@
           "correctAnswer": "assets/photos/turtle.jpg"
         }
       ]
-    }
+    },
+    "latitude": 7.131474,
+    "longitude": 171.184478
   },
   {
     "id": "MR",
@@ -3472,7 +3742,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 21.00789,
+    "longitude": -10.940835
   },
   {
     "id": "MU",
@@ -3496,7 +3768,9 @@
           "correctAnswer": "assets/photos/turtle.jpg"
         }
       ]
-    }
+    },
+    "latitude": -20.348404,
+    "longitude": 57.552152
   },
   {
     "id": "FM",
@@ -3521,7 +3795,9 @@
           "correctAnswer": "assets/photos/turtle.jpg"
         }
       ]
-    }
+    },
+    "latitude": 7.425554,
+    "longitude": 150.550812
   },
   {
     "id": "MD",
@@ -3546,7 +3822,9 @@
           "correctAnswer": "assets/photos/deer.jpg"
         }
       ]
-    }
+    },
+    "latitude": 47.411631,
+    "longitude": 28.369885
   },
   {
     "id": "MC",
@@ -3571,7 +3849,9 @@
           "correctAnswer": "assets/photos/lizard.jpg"
         }
       ]
-    }
+    },
+    "latitude": 43.750298,
+    "longitude": 7.412841
   },
   {
     "id": "MN",
@@ -3596,7 +3876,9 @@
           "correctAnswer": "assets/photos/horse.jpg"
         }
       ]
-    }
+    },
+    "latitude": 46.862496,
+    "longitude": 103.846656
   },
   {
     "id": "ME",
@@ -3620,7 +3902,9 @@
           "correctAnswer": "assets/photos/goat.jpg"
         }
       ]
-    }
+    },
+    "latitude": 42.708678,
+    "longitude": 19.37439
   },
   {
     "id": "MZ",
@@ -3645,7 +3929,9 @@
           "correctAnswer": "assets/photos/seagull.jpg"
         }
       ]
-    }
+    },
+    "latitude": -18.665695,
+    "longitude": 35.529562
   },
   {
     "id": "MM",
@@ -3669,7 +3955,9 @@
           "correctAnswer": "assets/photos/tiger.jpg"
         }
       ]
-    }
+    },
+    "latitude": 21.913965,
+    "longitude": 95.956223
   },
   {
     "id": "NA",
@@ -3718,7 +4006,9 @@
           "correctAnswer": "assets/photos/parrot.jpg"
         }
       ]
-    }
+    },
+    "latitude": -0.522778,
+    "longitude": 166.931503
   },
   {
     "id": "NP",
@@ -3743,7 +4033,9 @@
           "correctAnswer": "assets/photos/yak.jpg"
         }
       ]
-    }
+    },
+    "latitude": 28.394857,
+    "longitude": 84.124008
   },
   {
     "id": "NI",
@@ -3767,7 +4059,9 @@
           "correctAnswer": "assets/photos/lizard.jpg"
         }
       ]
-    }
+    },
+    "latitude": 12.865416,
+    "longitude": -85.207229
   },
   {
     "id": "NE",
@@ -3792,7 +4086,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 17.607789,
+    "longitude": 8.081666
   },
   {
     "id": "NG",
@@ -3817,7 +4113,9 @@
           "correctAnswer": "assets/photos/lion.jpg"
         }
       ]
-    }
+    },
+    "latitude": 9.081999,
+    "longitude": 8.675277
   },
   {
     "id": "KP",
@@ -3842,7 +4140,9 @@
           "correctAnswer": "assets/photos/deer.jpg"
         }
       ]
-    }
+    },
+    "latitude": 40.339852,
+    "longitude": 127.510093
   },
   {
     "id": "MK",
@@ -3866,7 +4166,9 @@
           "correctAnswer": "assets/photos/goat.jpg"
         }
       ]
-    }
+    },
+    "latitude": 41.608635,
+    "longitude": 21.745275
   },
   {
     "id": "OM",
@@ -3890,7 +4192,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 21.512583,
+    "longitude": 55.923255
   },
   {
     "id": "PW",
@@ -3914,7 +4218,9 @@
           "correctAnswer": "assets/photos/turtle.jpg"
         }
       ]
-    }
+    },
+    "latitude": 7.51498,
+    "longitude": 134.58252
   },
   {
     "id": "PA",
@@ -3938,7 +4244,9 @@
           "correctAnswer": "assets/photos/monkey.jpg"
         }
       ]
-    }
+    },
+    "latitude": 8.537981,
+    "longitude": -80.782127
   },
   {
     "id": "PG",
@@ -3963,7 +4271,9 @@
           "correctAnswer": "assets/photos/bird-of-paradise.jpg"
         }
       ]
-    }
+    },
+    "latitude": -6.314993,
+    "longitude": 143.95555
   },
   {
     "id": "PY",
@@ -3987,7 +4297,9 @@
           "correctAnswer": "assets/photos/jaguar.jpg"
         }
       ]
-    }
+    },
+    "latitude": -23.442503,
+    "longitude": -58.443832
   },
   {
     "id": "PE",
@@ -4012,7 +4324,9 @@
           "correctAnswer": "assets/photos/llama.jpg"
         }
       ]
-    }
+    },
+    "latitude": -9.189967,
+    "longitude": -75.015152
   },
   {
     "id": "PH",
@@ -4037,7 +4351,9 @@
           "correctAnswer": "assets/photos/monkey.jpg"
         }
       ]
-    }
+    },
+    "latitude": 12.879721,
+    "longitude": 121.774017
   },
   {
     "id": "QA",
@@ -4062,7 +4378,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 25.354826,
+    "longitude": 51.183884
   },
   {
     "id": "RW",
@@ -4086,7 +4404,9 @@
           "correctAnswer": "assets/photos/gorilla.jpg"
         }
       ]
-    }
+    },
+    "latitude": -1.940278,
+    "longitude": 29.873888
   },
   {
     "id": "KN",
@@ -4110,7 +4430,9 @@
           "correctAnswer": "assets/photos/parrot.jpg"
         }
       ]
-    }
+    },
+    "latitude": 17.357822,
+    "longitude": -62.782998
   },
   {
     "id": "LC",
@@ -4134,7 +4456,9 @@
           "correctAnswer": "assets/photos/parrot.jpg"
         }
       ]
-    }
+    },
+    "latitude": 13.909444,
+    "longitude": -60.978893
   },
   {
     "id": "VC",
@@ -4158,7 +4482,9 @@
           "correctAnswer": "assets/photos/turtle.jpg"
         }
       ]
-    }
+    },
+    "latitude": 12.984305,
+    "longitude": -61.287228
   },
   {
     "id": "WS",
@@ -4182,7 +4508,9 @@
           "correctAnswer": "assets/photos/parrot.jpg"
         }
       ]
-    }
+    },
+    "latitude": -13.759029,
+    "longitude": -172.104629
   },
   {
     "id": "SM",
@@ -4206,7 +4534,9 @@
           "correctAnswer": "assets/photos/goat.jpg"
         }
       ]
-    }
+    },
+    "latitude": 43.94236,
+    "longitude": 12.457777
   },
   {
     "id": "ST",
@@ -4230,7 +4560,9 @@
           "correctAnswer": "assets/photos/turtle.jpg"
         }
       ]
-    }
+    },
+    "latitude": 0.18636,
+    "longitude": 6.613081
   },
   {
     "id": "SN",
@@ -4255,7 +4587,9 @@
           "correctAnswer": "assets/photos/lion.jpg"
         }
       ]
-    }
+    },
+    "latitude": 14.497401,
+    "longitude": -14.452362
   },
   {
     "id": "SC",
@@ -4279,7 +4613,9 @@
           "correctAnswer": "assets/photos/turtle.jpg"
         }
       ]
-    }
+    },
+    "latitude": -4.679574,
+    "longitude": 55.491977
   },
   {
     "id": "SL",
@@ -4303,7 +4639,9 @@
           "correctAnswer": "assets/photos/monkey.jpg"
         }
       ]
-    }
+    },
+    "latitude": 8.460555,
+    "longitude": -11.779889
   },
   {
     "id": "SB",
@@ -4327,7 +4665,9 @@
           "correctAnswer": "assets/photos/turtle.jpg"
         }
       ]
-    }
+    },
+    "latitude": -9.64571,
+    "longitude": 160.156194
   },
   {
     "id": "SO",
@@ -4351,7 +4691,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 5.152149,
+    "longitude": 46.199616
   },
   {
     "id": "SS",
@@ -4400,7 +4742,9 @@
           "correctAnswer": "assets/photos/elephant.jpg"
         }
       ]
-    }
+    },
+    "latitude": 7.873054,
+    "longitude": 80.771797
   },
   {
     "id": "SD",
@@ -4424,7 +4768,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 12.862807,
+    "longitude": 30.217636
   },
   {
     "id": "SR",
@@ -4448,7 +4794,9 @@
           "correctAnswer": "assets/photos/monkey.jpg"
         }
       ]
-    }
+    },
+    "latitude": 3.919305,
+    "longitude": -56.027783
   },
   {
     "id": "TJ",
@@ -4472,7 +4820,9 @@
           "correctAnswer": "assets/photos/goat.jpg"
         }
       ]
-    }
+    },
+    "latitude": 38.861034,
+    "longitude": 71.276093
   },
   {
     "id": "TZ",
@@ -4497,7 +4847,9 @@
           "correctAnswer": "assets/photos/lion.jpg"
         }
       ]
-    }
+    },
+    "latitude": -6.369028,
+    "longitude": 34.888822
   },
   {
     "id": "TG",
@@ -4521,7 +4873,9 @@
           "correctAnswer": "assets/photos/lion.jpg"
         }
       ]
-    }
+    },
+    "latitude": 8.619543,
+    "longitude": 0.824782
   },
   {
     "id": "TO",
@@ -4545,7 +4899,9 @@
           "correctAnswer": "assets/photos/parrot.jpg"
         }
       ]
-    }
+    },
+    "latitude": -21.178986,
+    "longitude": -175.198242
   },
   {
     "id": "TT",
@@ -4569,7 +4925,9 @@
           "correctAnswer": "assets/photos/parrot.jpg"
         }
       ]
-    }
+    },
+    "latitude": 10.691803,
+    "longitude": -61.222503
   },
   {
     "id": "TN",
@@ -4594,7 +4952,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 33.886917,
+    "longitude": 9.537499
   },
   {
     "id": "TM",
@@ -4618,7 +4978,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 38.969719,
+    "longitude": 59.556278
   },
   {
     "id": "TV",
@@ -4642,7 +5004,9 @@
           "correctAnswer": "assets/photos/parrot.jpg"
         }
       ]
-    }
+    },
+    "latitude": -7.109535,
+    "longitude": 177.64933
   },
   {
     "id": "UG",
@@ -4667,7 +5031,9 @@
           "correctAnswer": "assets/photos/gorilla.jpg"
         }
       ]
-    }
+    },
+    "latitude": 1.373333,
+    "longitude": 32.290275
   },
   {
     "id": "UY",
@@ -4692,7 +5058,9 @@
           "correctAnswer": "assets/photos/cow.jpg"
         }
       ]
-    }
+    },
+    "latitude": -32.522779,
+    "longitude": -55.765835
   },
   {
     "id": "UZ",
@@ -4717,7 +5085,9 @@
           "correctAnswer": "assets/photos/goat.jpg"
         }
       ]
-    }
+    },
+    "latitude": 41.377491,
+    "longitude": 64.585262
   },
   {
     "id": "VU",
@@ -4741,7 +5111,9 @@
           "correctAnswer": "assets/photos/turtle.jpg"
         }
       ]
-    }
+    },
+    "latitude": -15.376706,
+    "longitude": 166.959158
   },
   {
     "id": "VA",
@@ -4765,7 +5137,9 @@
           "correctAnswer": "assets/photos/dove.jpg"
         }
       ]
-    }
+    },
+    "latitude": 41.902916,
+    "longitude": 12.453389
   },
   {
     "id": "VE",
@@ -4790,7 +5164,9 @@
           "correctAnswer": "assets/photos/jaguar.jpg"
         }
       ]
-    }
+    },
+    "latitude": 6.42375,
+    "longitude": -66.58973
   },
   {
     "id": "YE",
@@ -4814,7 +5190,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": 15.552727,
+    "longitude": 48.516388
   },
   {
     "id": "ZM",
@@ -4838,7 +5216,9 @@
           "correctAnswer": "assets/photos/elephant.jpg"
         }
       ]
-    }
+    },
+    "latitude": -13.133897,
+    "longitude": 27.849332
   },
   {
     "id": "ZW",
@@ -4862,10 +5242,10 @@
           "correctAnswer": "assets/photos/rhinoceros.jpg"
         }
       ]
-    }
+    },
+    "latitude": -19.015438,
+    "longitude": 29.154857
   },
-  
-
   {
     "id": "GF",
     "title": "🇬🇫 Französisch-Guayana 🇬🇫",
@@ -4888,7 +5268,9 @@
           "correctAnswer": "assets/photos/jaguar.jpg"
         }
       ]
-    }
+    },
+    "latitude": 3.933889,
+    "longitude": -53.125782
   },
   {
     "id": "GL",
@@ -4912,7 +5294,9 @@
           "correctAnswer": "assets/photos/polar_bear.jpg"
         }
       ]
-    }
+    },
+    "latitude": 71.706936,
+    "longitude": -42.604303
   },
   {
     "id": "XHI",
@@ -4923,7 +5307,6 @@
     "description4": "Besonderheit: Ein Inselparadies mit aktiven Vulkanen und traumhaften Stränden.",
     "description5": "Spaßfakt: Hawaii besitzt einzigartige Vulkane, die immer noch aktiv sind.",
     "imagePath": "assets/photos/XHI.jpg",
-
     "quiz": {
       "questions": [
         {
@@ -4948,7 +5331,6 @@
     "description4": "Besonderheit: Ein französisches Überseegebiet in der Antarktis und Subantarktis.",
     "description5": "Spaßfakt: Hier gibt es einzigartige Forschungsstationen und seltene Tierarten.",
     "imagePath": "assets/photos/XFA.jpg",
-
     "quiz": {
       "questions": [
         {
@@ -4973,7 +5355,6 @@
     "description4": "Besonderheit: Ein abgelegenes, unbewohntes Inselgebiet im Südatlantik mit vulkanischem Ursprung.",
     "description5": "Spaßfakt: Die Inseln sind vulkanisch aktiv und extrem isoliert.",
     "imagePath": "assets/photos/XSA.jpg",
-
     "quiz": {
       "questions": [
         {
@@ -4998,7 +5379,6 @@
     "description4": "Besonderheit: Der größte US-Bundesstaat, bekannt für seine Wildnis und Gletscher.",
     "description5": "Spaßfakt: Alaska beheimatet über 3.000 Gletscher.",
     "imagePath": "assets/photos/XAK.jpg",
-
     "quiz": {
       "questions": [
         {
@@ -5014,5 +5394,4 @@
       ]
     }
   }
-  
 ]
