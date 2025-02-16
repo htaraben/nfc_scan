@@ -8,6 +8,7 @@
     "description4": "Besonderheit: Es hat viele Seen – mehr als jedes andere Land der Welt!",
     "description5": "Spaßfakt: Hier wurde der Eishockeysport erfunden.",
     "imagePath": "assets/photos/CA.jpg",
+    "youtubeVideoId": "HYY8pCCd3Qg",
     "quiz": {
       "questions": [
         {
@@ -32,6 +33,7 @@
     "description4": "Besonderheit: Hier steht das Taj Mahal, eines der schönsten Bauwerke der Welt.",
     "description5": "Spaßfakt: Kühe sind in Indien heilig.",
     "imagePath": "assets/photos/IN.jpg",
+    "youtubeVideoId": "bGMdXGJUJ-A",
     "quiz": {
       "questions": [
         {
@@ -56,6 +58,7 @@
     "description4": "Besonderheit: Es wird „Regenbogennation“ genannt wegen seiner Vielfalt.",
     "description5": "Spaßfakt: Hier leben die Big Five: Löwe, Elefant, Nashorn, Büffel und Leopard.",
     "imagePath": "assets/photos/ZA.jpg",
+    "youtubeVideoId": "w1NgepX_dlA",
     "quiz": {
       "questions": [
         {
@@ -80,6 +83,7 @@
     "description4": "Besonderheit: Es ist das größte Land der Welt und hat viele Zeitzonen!",
     "description5": "Spaßfakt: Russen lieben Tee – oft trinken sie ihn mit Marmelade.",
     "imagePath": "assets/photos/RU.jpg",
+    "youtubeVideoId": "IrBNSJ5rdnA",
     "quiz": {
       "questions": [
         {
@@ -114,6 +118,7 @@
     "description4": "Besonderheit: Hier gibt es Sushi und die berühmten Kirschblüten.",
     "description5": "Spaßfakt: Japan hat Automaten, die fast alles verkaufen – sogar warme Suppen!",
     "imagePath": "assets/photos/JP.jpg",
+    "youtubeVideoId": "3_LHDA8N_9M",
     "quiz": {
       "questions": [
         {
@@ -138,6 +143,7 @@
     "description4": "Besonderheit: Hier stehen die Pyramiden von Gizeh – die ältesten Bauwerke der Welt.",
     "description5": "Spaßfakt: Katzen wurden in Ägypten als heilig angesehen.",
     "imagePath": "assets/photos/EG.jpg",
+    "youtubeVideoId": "UXKvwL8Ox6k",
     "quiz": {
       "questions": [
         {
@@ -162,6 +168,7 @@
     "description4": "Besonderheit: Die Türkei ist bekannt für ihre Gastfreundschaft und ihre Basare.",
     "description5": "Spaßfakt: Der Döner, den viele in Deutschland lieben, kommt aus der Türkei!",
     "imagePath": "assets/photos/TR.jpg",
+    "youtubeVideoId": "Rr66tDqdaXs",
     "quiz": {
       "questions": [
         {
@@ -210,6 +217,7 @@
     "description4": "Besonderheit: Das Land hat viele Burgen, Wälder und das Oktoberfest!",
     "description5": "Spaßfakt: Die längste Bratwurst der Welt war über 5 Kilometer lang!",
     "imagePath": "assets/photos/DE.jpg",
+    "youtubeVideoId": "jrT_b7YOjRo",
     "quiz": {
       "questions": [
         {
@@ -234,6 +242,7 @@
     "description4": "Besonderheit: Der Amazonas-Regenwald ist hier – einer der größten Wälder der Welt!",
     "description5": "Spaßfakt: Der berühmte Karneval in Rio hat gigantische Paraden mit bunten Kostümen.",
     "imagePath": "assets/photos/BR.jpg",
+    "youtubeVideoId": "2qbBHvF7NLE",
     "quiz": {
       "questions": [
         {
@@ -258,6 +267,7 @@
     "description4": "Besonderheit: Hier steht die Chinesische Mauer, die über 21.000 Kilometer lang ist!",
     "description5": "Spaßfakt: Pandas kommen ursprünglich aus China.",
     "imagePath": "assets/photos/CN.jpg",
+    "youtubeVideoId": "QQVoRNkIlC0",
     "quiz": {
       "questions": [
         {
@@ -282,6 +292,7 @@
     "description4": "Besonderheit: Hier leben Kängurus, Koalas und das berühmte Great Barrier Reef.",
     "description5": "Spaßfakt: Australien hat mehr Schafe als Menschen!",
     "imagePath": "assets/photos/AU.jpg",
+    "youtubeVideoId": "FnX8qIyA-bM",
     "quiz": {
       "questions": [
         {
@@ -330,6 +341,7 @@
     "description4": "Besonderheit: Polen hat viele Burgen und eine reiche Geschichte.",
     "description5": "Spaßfakt: Pierogi (gefüllte Teigtaschen) sind ein berühmtes polnisches Gericht.",
     "imagePath": "assets/photos/PL.jpg",
+    "youtubeVideoId": "VjKdtZiRSXg",
     "quiz": {
       "questions": [
         {
@@ -354,6 +366,7 @@
     "description4": "Besonderheit: In Rumänien liegt Transsilvanien, bekannt aus Dracula-Geschichten.",
     "description5": "Spaßfakt: Die rumänische Flagge hat die Farben Blau, Gelb und Rot.",
     "imagePath": "assets/photos/RO.jpg",
+    "youtubeVideoId": "YgKYdgwhCtM",
     "quiz": {
       "questions": [
         {
@@ -402,6 +415,7 @@
     "description4": "Besonderheit: Marokko ist bekannt für seine bunten Märkte und die Sahara-Wüste.",
     "description5": "Spaßfakt: Marokkanischer Minztee ist ein Symbol für Gastfreundschaft.",
     "imagePath": "assets/photos/MA.jpg",
+    "youtubeVideoId": "ju4rGWF-vCg",
     "quiz": {
       "questions": [
         {
@@ -426,6 +440,7 @@
     "description4": "Besonderheit: Frankreich ist berühmt für seinen Eiffelturm, Croissants und seine Modehauptstadt.",
     "description5": "Spaßfakt: Frankreich ist das meistbesuchte Land der Welt und hat über 40 UNESCO-Welterbestätten!",
     "imagePath": "assets/photos/FR.jpg",
+    "youtubeVideoId": "hbvMjEiG2MM",
     "quiz": {
       "questions": [
         {
@@ -450,6 +465,7 @@
     "description4": "Besonderheit: Vietnam ist bekannt für seine Reisfelder und das leckere Essen.",
     "description5": "Spaßfakt: Das traditionelle vietnamesische Kleid heißt „Áo dài“.",
     "imagePath": "assets/photos/VN.jpg",
+    "youtubeVideoId": "yR6tVxgDWLk",
     "quiz": {
       "questions": [
         {
@@ -474,6 +490,7 @@
     "description4": "Besonderheit: Viele Italiener kamen nach Deutschland, um beim Aufbau nach dem Krieg zu helfen.",
     "description5": "Spaßfakt: Italien hat die meisten UNESCO-Weltkulturerbestätten der Welt!",
     "imagePath": "assets/photos/IT.jpg",
+    "youtubeVideoId": "lubM-jFElGA",
     "quiz": {
       "questions": [
         {
@@ -498,6 +515,7 @@
     "description4": "Besonderheit: Die USA haben weltweit die größte Wirtschaft und eine große Bedeutung in der Welt.",
     "description5": "Spaßfakt: Die USA waren das erste Land, das Menschen auf den Mond geschickt hat.",
     "imagePath": "assets/photos/US.jpg",
+    "youtubeVideoId": "z9-N6sa-pVI",
     "quiz": {
       "questions": [
         {
@@ -545,6 +563,7 @@
     "description3": "Besonderheit: EISBÄREN!!!",
     "description4": "Spaßfakt: Die Arktis hat, anders als die Antarktis, keinen festen Boden. Sie besteht komplett aus meterdickem schwimmenden Eis.",
     "imagePath": "assets/photos/ARCTIC.jpg",
+    "youtubeVideoId": "WyPW_mWPF1E",
     "quiz": {
       "questions": [
         {
@@ -568,6 +587,7 @@
     "description3": "Besonderheit: PINGUINE!!!",
     "description4": "Spaßfakt: Ca. 30 Länder betreiben etwa 80 Forschungsstationen auf dem Kontinent.",
     "imagePath": "assets/photos/ANTARCTICA.jpg",
+    "youtubeVideoId": "nywsA8wCCfY",
     "quiz": {
       "questions": [
         {
