@@ -625,7 +625,9 @@
           "correctAnswer": "assets/photos/polar_bear.jpg"
         }
       ]
-    }
+    },
+    "latitude": 90.0,
+    "longitude": 0.0
   },
   {
     "id": "ANTARCTICA",
@@ -649,7 +651,9 @@
           "correctAnswer": "assets/photos/penguin.jpg"
         }
       ]
-    }
+    },
+    "latitude": -90.0,
+    "longitude": 0.0
   },
   {
     "id": "MX",
@@ -3982,7 +3986,9 @@
           "correctAnswer": "assets/photos/camel.jpg"
         }
       ]
-    }
+    },
+    "latitude": -22.95764,
+    "longitude": 18.49041
   },
   {
     "id": "NR",
@@ -4717,7 +4723,9 @@
           "correctAnswer": "assets/photos/lion.jpg"
         }
       ]
-    }
+    },
+    "latitude": 6.877,
+    "longitude": 31.307
   },
   {
     "id": "LK",
@@ -5320,7 +5328,9 @@
           "correctAnswer": "assets/photos/hawaiian_goose.jpg"
         }
       ]
-    }
+    },
+    "latitude": 21.3069,
+    "longitude": -157.8583
   },
   {
     "id": "XFA",
@@ -5344,7 +5354,9 @@
           "correctAnswer": "assets/photos/penguin.jpg"
         }
       ]
-    }
+    },
+    "latitude": -49.35,
+    "longitude": 70.2167
   },
   {
     "id": "XSA",
@@ -5368,7 +5380,9 @@
           "correctAnswer": "assets/photos/penguin.jpg"
         }
       ]
-    }
+    },
+    "latitude": -57.75,
+    "longitude": -26.5
   },
   {
     "id": "XAK",
@@ -5392,6 +5406,8 @@
           "correctAnswer": "assets/photos/bear.jpg"
         }
       ]
-    }
+    },
+    "latitude": 64.2008,
+    "longitude": -149.4937
   }
 ]
