@@ -186,14 +186,14 @@
   },
   {
     "id": "SY",
-    "title": "🇸🇾 Syrien 🇸🇾",
+    "title": "Syrien",
     "description1": "Kontinent: Asien",
     "description2": "Hauptstadt: Damaskus",
     "description3": "Sprache: Arabisch",
     "description4": "Besonderheit: Damaskus gehört zu den ältesten Städten der Welt.",
     "description5": "Spaßfakt: Syrische Küche hat viele leckere Gerichte wie Falafel und Hummus.",
     "imagePath": "assets/photos/SY.jpg",
-    "youtubeVideoId": "MISSING",
+    "youtubeVideoId": "l1zzvwJjmcc&t=32",
     "quiz": {
       "questions": [
         {
@@ -966,7 +966,7 @@
     "description4": "Besonderheit: Reich an natürlichen Ressourcen und kultureller Vielfalt.",
     "description5": "Spaßfakt: Angola ist bekannt für seine Elefanten und Antilopen.",
     "imagePath": "assets/photos/AO.jpg",
-    "youtubeVideoId": "MISSING",
+    "youtubeVideoId": "iCoNGTnOV7c",
     "quiz": {
       "questions": [
         {
@@ -1066,7 +1066,7 @@
     "description4": "Besonderheit: Ein Land mit unberührten Savannen und reicher Tierwelt.",
     "description5": "Spaßfakt: Botswana ist berühmt für das Okavango-Delta.",
     "imagePath": "assets/photos/BW.jpg",
-    "youtubeVideoId": "MISSING",
+    "youtubeVideoId": "fiBRyCXpW3U",
     "quiz": {
       "questions": [
         {
@@ -1291,7 +1291,7 @@
     "description4": "Besonderheit: Ein Land aus Feuer und Eis mit Geysiren und Vulkanen.",
     "description5": "Spaßfakt: Island hat eine einzigartige geothermische Landschaft.",
     "imagePath": "assets/photos/IS.jpg",
-    "youtubeVideoId": "MISSING",
+    "youtubeVideoId": "jwaHYwSWkC4",
     "quiz": {
       "questions": [
         {
