@@ -2854,6 +2854,7 @@
     "description4": "Besonderheit: Ein riesiges Land mit weiten Steppen.",
     "description5": "Spaßfakt: Kasachstan gehört zu den flächenmäßig größten Staaten.",
     "imagePath": "assets/photos/KZ.jpg",
+    "youtubeVideoId": "PgAMBRZ8qIE",
     "quiz": {
       "questions": [
         {
@@ -2878,6 +2879,7 @@
     "description4": "Besonderheit: Ein Staat, berühmt für Safari-Nationalparks.",
     "description5": "Spaßfakt: Kenia ist bekannt für die jährliche Migration der Gnus.",
     "imagePath": "assets/photos/KE.jpg",
+    "youtubeVideoId": "BNrsSSPyexU",
     "quiz": {
       "questions": [
         {
@@ -2974,6 +2976,7 @@
     "description4": "Besonderheit: Ein bergiges Land in Zentralasien mit nomadischer Tradition.",
     "description5": "Spaßfakt: Kirgisistan ist bekannt für Jurten und Reitkultur.",
     "imagePath": "assets/photos/KG.jpg",
+    "youtubeVideoId": "PgAMBRZ8qIE",
     "quiz": {
       "questions": [
         {
@@ -2998,6 +3001,7 @@
     "description4": "Besonderheit: Ein Binnenstaat mit üppigen Dschungeln.",
     "description5": "Spaßfakt: Laos ist bekannt für seine langsame Lebensart.",
     "imagePath": "assets/photos/LA.jpg",
+    "youtubeVideoId": "re23wgBhzBk",
     "quiz": {
       "questions": [
         {
@@ -3022,6 +3026,7 @@
     "description4": "Besonderheit: Ein baltischer Staat mit reicher Folklore.",
     "description5": "Spaßfakt: Lettland ist bekannt für mittelalterliche Städte.",
     "imagePath": "assets/photos/LV.jpg",
+    "youtubeVideoId": "nnPCxoiQSj0",
     "quiz": {
       "questions": [
         {
@@ -3046,6 +3051,7 @@
     "description4": "Besonderheit: Ein Land mit antiken Ruinen und malerischen Landschaften.",
     "description5": "Spaßfakt: Der Libanon ist berühmt für seine Zedernwälder.",
     "imagePath": "assets/photos/LB.jpg",
+    "youtubeVideoId": "sqR3m1lHCm8",
     "quiz": {
       "questions": [
         {
@@ -3190,6 +3196,7 @@
     "description4": "Besonderheit: Ein kleines, wohlhabendes Land in Westeuropa.",
     "description5": "Spaßfakt: Luxemburg ist bekannt für Schlösser und Weinfeste.",
     "imagePath": "assets/photos/LU.jpg",
+    "youtubeVideoId": "N_RfZZ-6ot8",
     "quiz": {
       "questions": [
         {
@@ -3214,6 +3221,7 @@
     "description4": "Besonderheit: Eine riesige Insel mit einzigartiger Flora und Fauna.",
     "description5": "Spaßfakt: Rund 90% der Tierarten kommen nirgendwo sonst vor.",
     "imagePath": "assets/photos/MG.jpg",
+    "youtubeVideoId": "sLiY72Fdz_M",
     "quiz": {
       "questions": [
         {
@@ -3406,6 +3414,7 @@
     "description4": "Besonderheit: Ein Inselstaat im westlichen Pazifik, bestehend aus vielen Atollen.",
     "description5": "Spaßfakt: Mikronesien umfasst hunderte kleiner Inseln.",
     "imagePath": "assets/photos/FM.jpg",
+    "youtubeVideoId": "BBAnBj70vzY",
     "quiz": {
       "questions": [
         {
@@ -3430,6 +3439,7 @@
     "description4": "Besonderheit: Ein osteuropäischer Staat, bekannt für Wein.",
     "description5": "Spaßfakt: Moldawien produziert eine große Menge an Wein.",
     "imagePath": "assets/photos/MD.jpg",
+    "youtubeVideoId": "24vjgGc8jpY",
     "quiz": {
       "questions": [
         {
@@ -3454,6 +3464,7 @@
     "description4": "Besonderheit: Ein Stadtstaat an der französischen Riviera.",
     "description5": "Spaßfakt: Monaco ist bekannt für seinen Grand Prix und Luxus.",
     "imagePath": "assets/photos/MC.jpg",
+    "youtubeVideoId": "G1twSkMY3jk",
     "quiz": {
       "questions": [
         {
@@ -3478,6 +3489,7 @@
     "description4": "Besonderheit: Ein Land der weiten Steppen und Nomaden.",
     "description5": "Spaßfakt: Die Mongolei ist berühmt für ihre Pferdekultur.",
     "imagePath": "assets/photos/MN.jpg",
+    "youtubeVideoId": "x9yZBFbLW54",
     "quiz": {
       "questions": [
         {
@@ -3526,6 +3538,7 @@
     "description4": "Besonderheit: Ein ostafrikanischer Staat mit langer Küste.",
     "description5": "Spaßfakt: Mosambik ist berühmt für seine Strände und Korallenriffe.",
     "imagePath": "assets/photos/MZ.jpg",
+    "youtubeVideoId": "FGpSE536HNM",
     "quiz": {
       "questions": [
         {
@@ -3574,6 +3587,7 @@
     "description4": "Besonderheit: Ein Land mit beeindruckenden Wüstenlandschaften.",
     "description5": "Spaßfakt: Die Namib-Wüste zählt zu den ältesten der Welt.",
     "imagePath": "assets/photos/NA.jpg",
+    "youtubeVideoId": "xoR0IzdauWU&t=1s",
     "quiz": {
       "questions": [
         {
@@ -3622,6 +3636,7 @@
     "description4": "Besonderheit: Ein Land im Himalaya mit atemberaubenden Bergen.",
     "description5": "Spaßfakt: Nepal beheimatet den Mount Everest.",
     "imagePath": "assets/photos/NP.jpg",
+    "youtubeVideoId": "BSjxbVIWfRs&t=1s",
     "quiz": {
       "questions": [
         {
@@ -3670,6 +3685,7 @@
     "description4": "Besonderheit: Ein großes Wüstenland in Westafrika.",
     "description5": "Spaßfakt: Der Niger ist bekannt für endlose Sanddünen.",
     "imagePath": "assets/photos/NE.jpg",
+    "youtubeVideoId": "pT8-NS6UhZc",
     "quiz": {
       "questions": [
         {
@@ -3694,6 +3710,7 @@
     "description4": "Besonderheit: Ein bevölkerungsreicher Staat in Westafrika.",
     "description5": "Spaßfakt: Nigeria ist berühmt für seine Afrobeat-Musik.",
     "imagePath": "assets/photos/NG.jpg",
+    "youtubeVideoId": "0BUKC94x2UY",
     "quiz": {
       "questions": [
         {
@@ -3718,7 +3735,8 @@
     "description4": "Besonderheit: Ein abgeschottetes Land auf der koreanischen Halbinsel.",
     "description5": "Spaßfakt: Nordkorea hat eine einzigartige Kultur und strenge Kontrolle.",
     "imagePath": "assets/photos/KP.jpg",
-    "quiz": {
+    "youtubeVideoId": "bdjib-oXfSY",
+    "quiz",: {
       "questions": [
         {
           "question": "Welches Tier ist in nordkoreanischen Wäldern heimisch?",
@@ -3838,6 +3856,7 @@
     "description4": "Besonderheit: Ein Land mit unglaublicher kultureller Vielfalt.",
     "description5": "Spaßfakt: Papua-Neuguinea hat über 800 indigene Sprachen.",
     "imagePath": "assets/photos/PG.jpg",
+    "youtubeVideoId": "RRCRAIJpUmI",
     "quiz": {
       "questions": [
         {
@@ -3886,6 +3905,7 @@
     "description4": "Besonderheit: Ein Land der Inkas mit beeindruckenden Anden.",
     "description5": "Spaßfakt: Peru ist berühmt für Machu Picchu.",
     "imagePath": "assets/photos/PE.jpg",
+    "youtubeVideoId": "rCJf-qIEBBU",
     "quiz": {
       "questions": [
         {
@@ -3910,6 +3930,7 @@
     "description4": "Besonderheit: Ein Inselstaat mit tausenden Inseln.",
     "description5": "Spaßfakt: Die Philippinen sind bekannt für bunte Festivals.",
     "imagePath": "assets/photos/PH.jpg",
+    "youtubeVideoId": "SAKW2fVespE",
     "quiz": {
       "questions": [
         {
@@ -3934,6 +3955,7 @@
     "description4": "Besonderheit: Ein wohlhabendes Land am Persischen Golf.",
     "description5": "Spaßfakt: Katar richtet große Sportveranstaltungen aus.",
     "imagePath": "assets/photos/QA.jpg",
+    "youtubeVideoId": "eA-ADxgo0RM",
     "quiz": {
       "questions": [
         {
@@ -4126,6 +4148,7 @@
     "description4": "Besonderheit: Ein westafrikanischer Staat mit reicher Musik- und Kulturszene.",
     "description5": "Spaßfakt: Senegal ist berühmt für seine lebendige Kunst.",
     "imagePath": "assets/photos/SN.jpg",
+    "youtubeVideoId": "6yoYBWAg0vY",
     "quiz": {
       "questions": [
         {
@@ -4270,6 +4293,7 @@
     "description4": "Besonderheit: Eine Inselnation mit reicher Geschichte im Indischen Ozean.",
     "description5": "Spaßfakt: Sri Lanka ist berühmt für Teeplantagen und Tempel.",
     "imagePath": "assets/photos/LK.jpg",
+    "youtubeVideoId": "A2NCapqQfWY",
     "quiz": {
       "questions": [
         {
@@ -4366,6 +4390,7 @@
     "description4": "Besonderheit: Ein ostafrikanischer Staat, bekannt für Safari-Nationalparks.",
     "description5": "Spaßfakt: Tansania beherbergt den Kilimandscharo, den höchsten Berg Afrikas.",
     "imagePath": "assets/photos/TZ.jpg",
+    "youtubeVideoId": "KNayRmdnmdQ",
     "quiz": {
       "questions": [
         {
@@ -4462,6 +4487,7 @@
     "description4": "Besonderheit: Ein nordafrikanischer Staat mit mediterranem Klima.",
     "description5": "Spaßfakt: Tunesien ist bekannt für antike Ruinen und Wüstenlandschaften.",
     "imagePath": "assets/photos/TN.jpg",
+    "youtubeVideoId": "6E8Y11_u6BA",
     "quiz": {
       "questions": [
         {
@@ -4534,6 +4560,7 @@
     "description4": "Besonderheit: Ein ostafrikanischer Staat, bekannt für Wildreservate.",
     "description5": "Spaßfakt: Uganda wird 'Perle Afrikas' genannt.",
     "imagePath": "assets/photos/UG.jpg",
+    "youtubeVideoId": "CSHui-FnRmk",
     "quiz": {
       "questions": [
         {
@@ -4558,6 +4585,7 @@
     "description4": "Besonderheit: Ein kleiner Staat mit hoher Lebensqualität.",
     "description5": "Spaßfakt: Uruguay ist bekannt für Rinderzucht und Weinkultur.",
     "imagePath": "assets/photos/UY.jpg",
+    "youtubeVideoId": "TUI3bUAaF5U",
     "quiz": {
       "questions": [
         {
@@ -4582,6 +4610,7 @@
     "description4": "Besonderheit: Ein zentralasiatischer Staat mit Seidenstraßen-Erbe.",
     "description5": "Spaßfakt: Usbekistan beeindruckt mit prachtvoller islamischer Architektur.",
     "imagePath": "assets/photos/UZ.jpg",
+    "youtubeVideoId": "9bBisFn4K9I",
     "quiz": {
       "questions": [
         {
@@ -4654,6 +4683,7 @@
     "description4": "Besonderheit: Ein Land reich an natürlichen Ressourcen.",
     "description5": "Spaßfakt: Venezuela beherbergt den Salto Ángel, den höchsten Wasserfall der Welt.",
     "imagePath": "assets/photos/VE.jpg",
+    "youtubeVideoId": "KvSBoJn-xnY",
     "quiz": {
       "questions": [
         {
@@ -4800,6 +4830,7 @@
     "description4": "Besonderheit: Ein Inselparadies mit aktiven Vulkanen und traumhaften Stränden.",
     "description5": "Spaßfakt: Hawaii besitzt einzigartige Vulkane, die immer noch aktiv sind.",
     "imagePath": "assets/photos/XHI.jpg",
+
     "quiz": {
       "questions": [
         {
@@ -4824,6 +4855,7 @@
     "description4": "Besonderheit: Ein französisches Überseegebiet in der Antarktis und Subantarktis.",
     "description5": "Spaßfakt: Hier gibt es einzigartige Forschungsstationen und seltene Tierarten.",
     "imagePath": "assets/photos/XFA.jpg",
+
     "quiz": {
       "questions": [
         {
@@ -4848,6 +4880,7 @@
     "description4": "Besonderheit: Ein abgelegenes, unbewohntes Inselgebiet im Südatlantik mit vulkanischem Ursprung.",
     "description5": "Spaßfakt: Die Inseln sind vulkanisch aktiv und extrem isoliert.",
     "imagePath": "assets/photos/XSA.jpg",
+
     "quiz": {
       "questions": [
         {
@@ -4872,6 +4905,7 @@
     "description4": "Besonderheit: Der größte US-Bundesstaat, bekannt für seine Wildnis und Gletscher.",
     "description5": "Spaßfakt: Alaska beheimatet über 3.000 Gletscher.",
     "imagePath": "assets/photos/XAK.jpg",
+
     "quiz": {
       "questions": [
         {
