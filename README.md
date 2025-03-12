@@ -5,8 +5,9 @@ lib\core\presentation\screen\nfc_reader.dart    //hier is  the nfc reader class/
 lib\core\presentation\screen\infocard.dart      //hier is  the infocard class//
 lib\main.dart                                   //hier is  the main class// 
 
-after clone the project run this comand " flutter pub get " To initialize the dependencies
+after clone the project run this comands "flutter clean" and " flutter pub get " To initialize the dependencies
+run the command "flutter build apk --release" to build the apk
 
-assets\data.json  //this file has to be modified//
+assets\data.json  //this file contains the data of all contires or NFC-Chips used. This should be modified if you change the map//
 
-assets\photos     //photos with name like DE.jpg//
+assets\photos     //photos that are referenced in the data.json and displayed in the app like DE.jpg//
