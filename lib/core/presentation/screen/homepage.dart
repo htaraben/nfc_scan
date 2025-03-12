@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:animate_do/animate_do.dart';
-import 'package:nfc_scan/core/presentation/screen/nfc_reader.dart';
-import 'package:nfc_scan/core/presentation/screen/where.dart';
+import 'package:nfc_scan/core/presentation/screen/erkunde_die_welt.dart';
+import 'package:nfc_scan/core/presentation/screen/suche_ein_land.dart';
 
 
 class HomePage extends StatelessWidget {
