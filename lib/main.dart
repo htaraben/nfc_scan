@@ -1,29 +1,25 @@
+// main.dart
 import 'package:flutter/material.dart';
 import 'package:nfc_scan/core/presentation/screen/homepage.dart';
 
 
-
-
 void main() {
-  runApp(const MyApp());
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
-   @override
+  @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'NFC SCANNER',
+      title: 'Flutter NFC Reader',
       theme: ThemeData(
-
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-        useMaterial3: true,
+        primarySwatch: Colors.blue,
       ),
       home: HomePage(),
-     
     );
   }
-
 }
+
+

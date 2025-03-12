@@ -59,7 +59,7 @@ flutter:
   assets:
       - assets/data.json
       - assets/photos/
-      - assets/world_map1.jpg
+      - assets/world_map.jpeg
       - assets/animations/place_phone.json
 
   # The following line ensures that the Material Icons font is

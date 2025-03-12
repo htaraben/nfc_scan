@@ -1,0 +1,2 @@
+C:/SHRT/NFC_Seriouse_Games/nfc_scan/android/app/.cxx/RelWithDebInfo/5156436w/x86/CMakeFiles/edit_cache.dir
+C:/SHRT/NFC_Seriouse_Games/nfc_scan/android/app/.cxx/RelWithDebInfo/5156436w/x86/CMakeFiles/rebuild_cache.dir

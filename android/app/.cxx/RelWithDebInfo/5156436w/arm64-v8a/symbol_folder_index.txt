@@ -1,0 +1,1 @@
+C:\SHRT\NFC_Seriouse_Games\nfc_scan\build\app\intermediates\cxx\RelWithDebInfo\5156436w\obj\arm64-v8a
